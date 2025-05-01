@@ -565,6 +565,16 @@ The potential impact of Naseej is significant. By providing a shared, resilient,
 
 Building digital infrastructures that reflect and reinforce values of inclusion, agency, collective learning, and resilience is one of the critical tasks of our time. Naseej is proposed as a concrete, technically grounded, and philosophically coherent step in this direction – an attempt to begin weaving a different kind of digital fabric, one capable of supporting more just and effective ways of knowing and acting together in our complex world.
 
+## How to Cite
+
+```
+@misc{naseej_whitepaper_[Year],
+  author       = {{Naseej Collective}},
+  title        = {Naseej Whitepaper},
+  year         = {[Year]},
+  howpublished = {\url{https://github.com/Naseej-Collective/Naseej-Whitepaper}}
+}
+```
 # Works cited
 
 1.  [What is Decentralized Science (DeSci)? | Onchain Magazine](https://onchain.org/magazine/what-is-decentralized-science-desci/)
