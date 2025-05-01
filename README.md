@@ -173,7 +173,7 @@ flowchart TD
     classDef roadmap fill:#f5f5f5,stroke:#333,stroke-width:2px
 ```
 
-1\. Introduction: Beyond Silos, Towards Collective Knowing and Doing
+## 1\. Introduction: Beyond Silos, Towards Collective Knowing and Doing
 
 The contemporary world faces complex, interconnected challenges that demand collective understanding and coordinated action. However, our ability to respond effectively is often hampered by the pervasive fragmentation of knowledge. Information becomes trapped within disciplinary boundaries, professional jargon, organizational structures, and disparate community initiatives, hindering synthesis and preventing holistic problem-solving.1 Existing centralized platforms, while offering connectivity, frequently replicate and reinforce these silos, often prioritizing engagement metrics or proprietary control over genuine knowledge sharing and integration.3 Furthermore, these platforms often perpetuate exclusionary practices, valuing certain forms of knowledge and contribution while marginalizing others.1
 
@@ -196,7 +196,7 @@ Naseej's vision extends significantly beyond the domain of Decentralized Science
 
 This whitepaper elaborates on the critical need for a platform like Naseej, delves into its guiding philosophy, outlines its proposed solution and P2P architecture, discusses its innovative aspects, and presents a roadmap for its development. It aims to demonstrate how Naseej offers a unique and necessary approach to fostering collective intelligence and action in an increasingly fragmented and complex world. The fundamental difference lies in its nature as a philosophically driven system, where technology serves the higher goals of inclusion, resilience, and actionable synthesis, rather than being an end in itself.
 
-2\. The Need for Naseej: Fragmentation, Exclusion, and the Sudanese Context
+## 2\. The Need for Naseej: Fragmentation, Exclusion, and the Sudanese Context
 
 The imperative for Naseej stems from observing critical, intertwined failures in contemporary knowledge systems: the pervasive fragmentation of information into silos, the systemic exclusion of diverse forms of knowledge and contribution, and the specific, acute challenges faced in contexts like Sudan, where information access itself is contested terrain.
 
@@ -219,11 +219,11 @@ The imperative for Naseej stems from observing critical, intertwined failures in
 
 The specific, urgent needs of the Sudanese context—for resilient, censorship-resistant communication, offline access, and the integration of diverse and local knowledge—serve not merely as a use case for Naseej, but as a fundamental driver of its core philosophy and technical architecture. The platform's emphasis on P2P infrastructure, offline-first capabilities, and Holistic Radical Inclusion is a direct response to these grounded realities. By starting with these needs, Naseej aims to build a more relevant and impactful solution than technologies designed in isolation from such contexts.
 
-3\. The Naseej Philosophy: Weaving a Radically Inclusive Knowledge Commons
+## 3\. The Naseej Philosophy: Weaving a Radically Inclusive Knowledge Commons
 
 Naseej is more than a technological system; it is an embodiment of a specific philosophy aimed at transforming how communities create, share, and utilize knowledge for collective action. This philosophy rests on three interconnected pillars: Holistic Radical Inclusion, Breaking Knowledge Silos, and serving as a Platform for Action through Participatory Action Research (PAR).
 
-3.1. Holistic Radical Inclusion: Valuing the Multitudes
+### 3.1. Holistic Radical Inclusion: Valuing the Multitudes
 
 At the heart of Naseej lies the principle of Holistic Radical Inclusion. This concept extends beyond merely providing access; it signifies a fundamental commitment to recognizing, valuing, and integrating all forms of contribution essential for the flourishing of a knowledge commons and the effectiveness of collective action.5 Traditional systems often create hierarchies of knowledge and contribution, privileging formal expertise or easily quantifiable outputs.1 Naseej actively works against this by explicitly acknowledging the value of a diverse spectrum of work:
 
@@ -248,7 +248,7 @@ Crucially, Holistic Radical Inclusion necessitates moving beyond purely financia
 
 * * *
 
-Table 1: Comparison of Contribution Valuation Models
+#### Table 1: Comparison of Contribution Valuation Models
 
   
 
@@ -261,7 +261,7 @@ Table 1: Comparison of Contribution Valuation Models
 
 * * *
 
-3.2. Breaking Knowledge Silos: Fostering Synthesis and Integration
+### 3.2. Breaking Knowledge Silos: Fostering Synthesis and Integration
 
 The second pillar of the Naseej philosophy is the commitment to actively Break Knowledge Silos. Recognizing that fragmentation hinders understanding and effective action 1, Naseej is designed not just to store different types of information, but to foster connections, dialogue, and synthesis between them. The goal is to create an environment where insights from diverse domains – scientific research, indigenous practices, artistic explorations, community experiences, logistical knowledge – can interact, challenge, and enrich one another.
 
@@ -273,7 +273,7 @@ The structure of Naseej may draw inspiration from knowledge graph principles.8 B
 
 Ultimately, breaking silos is not merely about co-locating diverse data; it is about creating the socio-technical conditions for meaningful integration and synthesis. This involves technological features that support linking and flexible data representation, coupled with a platform culture, fostered by the principles of Holistic Radical Inclusion, that actively encourages and values the weaving together of different threads of knowledge.
 
-3.3. A Platform for Action (PAR): The Cycle of Knowing and Doing
+### 3.3. A Platform for Action (PAR): The Cycle of Knowing and Doing
 
 The third pillar positions Naseej as a Platform for Action, driven by the methodology of Participatory Action Research (PAR).11 PAR is an approach where research is conducted with and by a community, rather than on them, with the explicit goal of generating knowledge to inform action and drive positive social change.15 Naseej adopts the PAR cycle as its core operational engine, structuring the platform to support the iterative process of:
 
@@ -299,13 +299,13 @@ A key aspect is the explicit linking of knowledge, action, and reflection. Nasee
 
 By embedding the PAR cycle, Naseej transforms from a passive repository into an active, dynamic learning system for communities. It provides the infrastructure needed to bridge the gap between knowing and doing, allowing practice to continuously inform theory and collective understanding to guide more effective action. This requires specific attention to user interface and user experience (UI/UX) design to make documenting actions and reflections intuitive and meaningful 100, as well as a flexible data model to capture these interconnected elements.
 
-4\. Naseej: A Resilient P2P Platform for Collective Knowing and Doing
+## 4\. Naseej: A Resilient P2P Platform for Collective Knowing and Doing
 
-4.1. Solution Overview: Embodying the Philosophy
+### 4.1. Solution Overview: Embodying the Philosophy
 
 Naseej manifests the philosophical principles of Holistic Radical Inclusion, Breaking Knowledge Silos, and the Platform for Action (PAR) cycle through a concrete technological solution. It is a decentralized, peer-to-peer (P2P) platform designed to function as a resilient, inclusive, and action-oriented digital commons. Built upon the Pear/Holepunch technology stack 24, Naseej provides the infrastructure for communities to collaboratively manage knowledge and coordinate action, prioritizing user control, data sovereignty, and operational resilience.
 
-4.2. Addressing the Sudanese Context: Resilience by Design
+### 4.2. Addressing the Sudanese Context: Resilience by Design
 
 The design choices underpinning Naseej are directly informed by the acute challenges faced in contexts such as Sudan, ensuring the platform is not only functional but also robust and relevant in demanding environments.
 
@@ -320,7 +320,7 @@ The design choices underpinning Naseej are directly informed by the acute challe
 
 * * *
 
-Table 2: Naseej Features Addressing Sudanese Context Challenges
+#### Table 2: Naseej Features Addressing Sudanese Context Challenges
 
   
 
@@ -336,7 +336,7 @@ Table 2: Naseej Features Addressing Sudanese Context Challenges
 
 * * *
 
-4.3. Beyond DeSci: A General-Purpose Knowledge Commons
+### 4.3. Beyond DeSci: A General-Purpose Knowledge Commons
 
 While Naseej incorporates principles like openness and decentralization that resonate with the Decentralized Science (DeSci) movement 1, its scope and applicability extend far beyond the confines of scientific research. Naseej is envisioned as a foundational, general-purpose infrastructure for any collaborative endeavor that involves building, sharing, and acting upon knowledge. Its core philosophical tenets and technical design address challenges common across numerous domains:
 
@@ -355,15 +355,15 @@ A key strength of Naseej in these diverse contexts is its capacity to integrate 
 
 Therefore, Naseej's potential impact is best understood not merely as a contribution to DeSci, but as a versatile infrastructure for fostering resilient, inclusive, and action-oriented knowledge ecosystems across any domain where collaboration and shared understanding are paramount. Its design addresses fundamental needs that transcend specific fields, particularly in contexts demanding decentralization, resilience, and the valuing of diverse contributions.
 
-5\. Architecture: Building on Peer-to-Peer Foundations (Pear/Holepunch)
+## 5\. Architecture: Building on Peer-to-Peer Foundations (Pear/Holepunch)
 
 Naseej's architecture is deliberately built upon the Pear/Holepunch P2P ecosystem.24 This choice is foundational, providing a suite of interoperable modules designed specifically for building secure, resilient, local-first P2P applications.24 This stack enables Naseej to embody its core philosophical principles through concrete technical capabilities.
 
-5.1. The Pear/Holepunch Ecosystem
+### 5.1. The Pear/Holepunch Ecosystem
 
 Pear Runtime provides the environment for developing and running P2P applications, offering tools for building desktop, terminal, and potentially mobile applications without reliance on central servers.25 The ecosystem includes core data structures (Hypercore, Hyperbee, Hyperdrive), networking components (Hyperswarm, HyperDHT), and multi-writer capabilities (Autobase), all designed for decentralization, efficiency, and security.24
 
-5.2. Core Data Layer: Hypercore, Corestore, Hyperbee
+### 5.2. Core Data Layer: Hypercore, Corestore, Hyperbee
 
 *   Hypercore: At the base lies Hypercore, a secure, distributed, append-only log.129 Each addition (append) to a Hypercore is cryptographically signed by the owner's private key and linked to previous entries via Merkle trees.129
     
@@ -383,7 +383,7 @@ Pear Runtime provides the environment for developing and running P2P application
 *   Philosophical Alignment: Hyperbee is suitable for storing and indexing the structured data within Naseej, such as the definitions of knowledge artifacts (SKUs, including their types and relations/fields), contributor profiles, and potentially the non-tokenized reputation data.145 Its append-only nature preserves the history required for reflection and understanding evolution. Sub-databases (db.sub()) can further organize data, e.g., separating different types of SKUs or PAR cycle components 144, contributing to breaking down conceptual silos while maintaining linkage.
     
 
-5.3. Multi-Writer Collaboration & Consistency: Autobase
+### 5.3. Multi-Writer Collaboration & Consistency: Autobase
 
 Handling contributions from multiple participants concurrently in a decentralized system requires a robust mechanism for merging inputs and ensuring consistency. Naseej employs Autobase for this purpose.30
 
@@ -397,7 +397,7 @@ Handling contributions from multiple participants concurrently in a decentralize
 *   Comparison with CRDTs: Conflict-Free Replicated Data Types (CRDTs) are another approach to achieving eventual consistency in multi-writer scenarios.149 While CRDTs offer strong guarantees for specific data types (counters, sets, etc.), Autobase's DAG-based approach provides a built-in causal history that can be simpler to reason about for complex, evolving knowledge structures. Autobase's reordering mechanism handles conflicts based on the causal order of events 30, providing a deterministic way to merge concurrent contributions into the shared view.
     
 
-5.4. Data Representation: IPLD (InterPlanetary Linked Data)
+### 5.4. Data Representation: IPLD (InterPlanetary Linked Data)
 
 To represent the diverse and interconnected knowledge within Naseej, the platform utilizes the IPLD data model.34
 
@@ -416,7 +416,7 @@ To represent the diverse and interconnected knowledge within Naseej, the platfor
 *   Integration with Hypercore/Hyperbee: IPLD data objects, typically encoded using efficient binary formats like DAG-CBOR 176, can be stored as the values within Hyperbee entries.179 The Autobase apply function would be responsible for decoding incoming IPLD data from peer contributions, validating it against the relevant IPLD schema, and updating the Hyperbee view accordingly.30
     
 
-5.5. Networking & Discovery: Hyperswarm & HyperDHT
+### 5.5. Networking & Discovery: Hyperswarm & HyperDHT
 
 To enable peers to find each other and exchange data in a decentralized manner, Naseej utilizes Hyperswarm and HyperDHT.24
 
@@ -426,7 +426,7 @@ To enable peers to find each other and exchange data in a decentralized manner, 
 *   Philosophical Alignment (Resilience & Decentralization): This decentralized discovery mechanism eliminates reliance on central servers for peer finding, enhancing resilience and censorship resistance, crucial for the platform's operation in challenging environments like Sudan.24
     
 
-5.6. Identity, Reputation, and Access Control
+### 5.6. Identity, Reputation, and Access Control
 
 Managing participation, trust, and permissions in an open, decentralized system requires careful design, balancing inclusivity with security.
 
@@ -460,7 +460,7 @@ The deliberate selection of the Pear/Holepunch stack and technologies like IPLD,
 
 * * *
 
-Table 3: Naseej Philosophical Principles vs. Technical Enablers
+#### Table 3: Naseej Philosophical Principles vs. Technical Enablers
 
   
 
@@ -474,11 +474,11 @@ Table 3: Naseej Philosophical Principles vs. Technical Enablers
 
 * * *
 
-6\. Innovation: Adaptive Knowledge Structures and Synthesis
+## 6\. Innovation: Adaptive Knowledge Structures and Synthesis
 
 Naseej's innovation extends beyond its philosophical grounding and P2P architecture. It lies in the synergistic combination of its components to create a dynamic, collectively constructed knowledge system capable of adaptation and fostering deep synthesis. Key innovative aspects include its flexible data model supporting evolution, its use of multi-writer technology for collaborative knowledge building, and its design features aimed at facilitating synthesis and discovery.
 
-6.1. Data Model Flexibility & Evolution (ASoS)
+### 6.1. Data Model Flexibility & Evolution (ASoS)
 
 A static knowledge structure cannot adequately serve a living community engaged in ongoing action and reflection. Naseej addresses this through a flexible and evolvable data model, leveraging IPLD and aiming towards Adaptive Schemas of Significance (ASoS).
 
@@ -489,7 +489,7 @@ A static knowledge structure cannot adequately serve a living community engaged 
 *   Philosophical Alignment: This capacity for structural adaptation is a direct implementation of the PAR principle that practice should refine theory.12 As a community acts and reflects, its understanding (and thus the optimal way to structure its knowledge) evolves. ASoS allows the Naseej commons to be a living system, reflecting this ongoing learning journey rather than being constrained by a fixed initial design.
     
 
-6.2. Multi-Writer Knowledge Construction
+### 6.2. Multi-Writer Knowledge Construction
 
 Autobase serves not just as a log synchronization mechanism but as the engine for the collaborative construction of the Naseej knowledge graph itself.30
 
@@ -498,7 +498,7 @@ Autobase serves not just as a log synchronization mechanism but as the engine fo
 *   The apply Function as Consensus Point: These proposed changes flow into the Autobase linearization process. The critical point of integration is the apply function.30 This function, executed by peers (especially indexers), examines the linearized stream of proposed changes. It must contain the logic to validate these proposals (e.g., checking schema validity, ensuring consistency, potentially verifying contributor reputation or applying community-defined consensus rules) and decide whether to integrate the change into the shared view (e.g., updating the Hyperbee representing the knowledge structure).251 Managing updates to the apply function itself in a decentralized, trustworthy way presents a significant governance challenge, potentially requiring its own consensus mechanism.251
     
 
-6.3. Facilitating Synthesis and Discovery
+### 6.3. Facilitating Synthesis and Discovery
 
 Beyond storing and structuring knowledge, Naseej aims to actively facilitate synthesis – the drawing of new connections and insights from the assembled information.
 
@@ -511,13 +511,13 @@ Beyond storing and structuring knowledge, Naseej aims to actively facilitate syn
 
 The innovation of Naseej arises from the interplay of these elements. Autobase provides the decentralized, multi-writer foundation for collaborative construction. IPLD offers the flexible, linkable data language. The PAR philosophy provides the guiding framework, ensuring that the construction process is geared towards actionable, reflective learning. Together, they create the potential for a truly adaptive and synthetic knowledge commons, capable of evolving alongside the communities it serves.
 
-7\. Roadmap and Future Directions
+## 7\. Roadmap and Future Directions
 
 The development of Naseej is an ongoing process, guided by its core philosophical principles and the goal of creating a robust, general-purpose knowledge commons.
 
-*   Current Status: Naseej is currently in the conceptual and early prototyping phase. Foundational architectural decisions have been made, centering on the Pear/Holepunch stack (Hypercore, Hyperbee, Autobase, Hyperswarm) and the IPLD data model. Initial schema designs for core entities (SKUs, PAR components, basic contributor profiles) are being developed.
+**Current Status:** Naseej is currently in the conceptual and early prototyping phase. Foundational architectural decisions have been made, centering on the Pear/Holepunch stack (Hypercore, Hyperbee, Autobase, Hyperswarm) and the IPLD data model. Initial schema designs for core entities (SKUs, PAR components, basic contributor profiles) are being developed.
     
-*   Short-Term Goals (Next 6-12 Months):
+### Short-Term Goals (Next 6-12 Months):
     
 
 *   Core Implementation: Develop the basic platform functionalities: creating, storing, and linking core knowledge artifacts (SKUs) and PAR cycle elements (actions, reflections) using Hyperbee and Autobase. Implement basic IPLD schema validation within the apply function.
@@ -529,7 +529,7 @@ The development of Naseej is an ongoing process, guided by its core philosophica
 *   Usability Testing & Pilot: Conduct early usability testing with a small, targeted community. Initiate a pilot project, potentially focusing on a specific use case like cultural archiving within a Sudanese diaspora community or supporting a collaborative research project aligned with PAR principles. Gather feedback on core functionality and user experience.
     
 
-*   Mid-Term Goals (1-3 Years):
+### Mid-Term Goals (1-3 Years):
     
 
 *   Refined Reputation System: Fully develop and integrate the non-tokenized reputation system, including mechanisms for peer validation and diverse contribution tracking. Explore lightweight Sybil resistance mechanisms (WoT, PoP-lite).
@@ -543,7 +543,7 @@ The development of Naseej is an ongoing process, guided by its core philosophica
 *   Broadened Use Case Pilots: Expand pilot projects into diverse domains identified (community organizing, education, etc.) to test and refine Naseej's general-purpose applicability.
     
 
-*   Long-Term Vision:
+### Long-Term Vision:
     
 
 *   Global Commons Infrastructure: Establish Naseej as a robust, widely adopted, open-source infrastructure for diverse communities globally seeking resilient, inclusive, and action-oriented knowledge management.
@@ -557,10 +557,12 @@ The development of Naseej is an ongoing process, guided by its core philosophica
 
 The roadmap reflects the ambition of Naseej to move beyond a niche tool towards a foundational layer for collaborative intelligence. It prioritizes building the core P2P infrastructure, integrating the philosophical commitments into the reputation and governance systems, and then expanding capabilities for synthesis and adaptation based on real-world usage and feedback.
 
-*   Call to Action: Naseej is an open, collaborative endeavor. We invite researchers, developers, community organizers, cultural preservationists, activists, and potential users interested in building more resilient and inclusive knowledge systems to engage with the project. Contributions, feedback, and participation in pilot projects are welcomed.
+### Call to Action
+
+Naseej is an open, collaborative endeavor. We invite researchers, developers, community organizers, cultural preservationists, activists, and potential users interested in building more resilient and inclusive knowledge systems to engage with the project. Contributions, feedback, and participation in pilot projects are welcomed.
     
 
-8\. Conclusion: Weaving the Future of Knowledge
+## 8\. Conclusion: Weaving the Future of Knowledge
 
 Naseej represents a deliberate effort to weave together philosophy, technology, and context to address fundamental challenges in how we collectively know and act. Faced with pervasive knowledge fragmentation, systemic exclusion, and the acute need for resilient infrastructure in contexts like Sudan, Naseej offers a distinct alternative to centralized, extractive digital platforms. Its core value proposition lies in its deep commitment to Holistic Radical Inclusion, valuing the diverse "multitudes" within individuals and the full spectrum of contributions needed for collective well-being; its design for Breaking Knowledge Silos through flexible data models and fostering synthesis; its operationalization of the Participatory Action Research (PAR) cycle as a Platform for Action; and its grounding in Contextual Resilience through a robust P2P, offline-first architecture built on the Pear/Holepunch stack and IPLD.
 
@@ -570,7 +572,7 @@ The potential impact of Naseej is significant. By providing a shared, resilient,
 
 Building digital infrastructures that reflect and reinforce values of inclusion, agency, collective learning, and resilience is one of the critical tasks of our time. Naseej is proposed as a concrete, technically grounded, and philosophically coherent step in this direction – an attempt to begin weaving a different kind of digital fabric, one capable of supporting more just and effective ways of knowing and acting together in our complex world.
 
-#### Works cited
+# Works cited
 
 1.  What is Decentralized Science (DeSci)? | Onchain Magazine, [https://onchain.org/magazine/what-is-decentralized-science-desci/](https://onchain.org/magazine/what-is-decentralized-science-desci/)
     
