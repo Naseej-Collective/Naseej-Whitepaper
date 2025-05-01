@@ -1,5 +1,7 @@
 # Naseej: Weaving a Radically Inclusive Knowledge Commons for Action
 
+Version: 1.1
+
 ```mermaid
 ---
 config:
@@ -572,7 +574,8 @@ Building digital infrastructures that reflect and reinforce values of inclusion,
   author       = {{Naseej Collective}},
   title        = {Naseej Whitepaper},
   year         = {[Year]},
-  howpublished = {\url{https://github.com/Naseej-Collective/Naseej-Whitepaper}}
+  howpublished = {\url{https://github.com/Naseej-Collective/Naseej-Whitepaper}},
+  version      = {{1.1}}
 }
 ```
 # Works cited
