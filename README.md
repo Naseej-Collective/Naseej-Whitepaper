@@ -567,517 +567,262 @@ Building digital infrastructures that reflect and reinforce values of inclusion,
 
 # Works cited
 
-1.  What is Decentralized Science (DeSci)? | Onchain Magazine, [https://onchain.org/magazine/what-is-decentralized-science-desci/](https://onchain.org/magazine/what-is-decentralized-science-desci/)
-    
-2.  Decentralized Science (DeSci): A Paradigm Shift in Scientific Exploration - TokenMinds, [https://tokenminds.co/blog/knowledge-base/decentralized-science](https://tokenminds.co/blog/knowledge-base/decentralized-science)
-    
-3.  Top Decentralized Science (DeSci) Projects for 2024/2025 | TokenInsight, [https://tokeninsight.com/en/tokenwiki/all/top-decentralized-science-desci-projects-for-2024-2025](https://tokeninsight.com/en/tokenwiki/all/top-decentralized-science-desci-projects-for-2024-2025)
-    
-4.  What Is Decentralized Science (DeSci)? Everything You Need to Know - BNB Chain Blog, [https://www.bnbchain.org/fr-FR/blog/what-is-decentralized-science-desci](https://www.bnbchain.org/fr-FR/blog/what-is-decentralized-science-desci)
-    
-5.  Radical Inclusion: Seven Steps to Help You Create a More Just Workplace, Home, and World: Sengeh, David Moinina - Amazon.com, [https://www.amazon.com/Radical-Inclusion-Seven-Create-Workplace/dp/1250827744](https://www.amazon.com/Radical-Inclusion-Seven-Create-Workplace/dp/1250827744)
-    
-6.  Is Data Labor? Two Conceptions of Work and the User-Platform ..., [https://www.cambridge.org/core/journals/business-ethics-quarterly/article/is-data-labor-two-conceptions-of-work-and-the-userplatform-relationship/15E922A1132C86474545D35F7F58426D](https://www.cambridge.org/core/journals/business-ethics-quarterly/article/is-data-labor-two-conceptions-of-work-and-the-userplatform-relationship/15E922A1132C86474545D35F7F58426D)
-    
-7.  A social reproduction analysis of digital care platform work - Taylor ..., [https://www.tandfonline.com/doi/pdf/10.1080/13563467.2024.2317703](https://www.tandfonline.com/doi/pdf/10.1080/13563467.2024.2317703)
-    
-8.  Step-by-Step Guide to Building a Knowledge Graph in 2025 - PageOn.ai, [https://www.pageon.ai/blog/knowledge-graph](https://www.pageon.ai/blog/knowledge-graph)
-    
-9.  Relational Databases vs. Graph Databases: What's the Difference?, [https://www.schemaapp.com/schema-markup/relational-databases-vs-graph-databases/](https://www.schemaapp.com/schema-markup/relational-databases-vs-graph-databases/)
-    
-10.  Knowledge graphs | The Alan Turing Institute, [https://www.turing.ac.uk/research/interest-groups/knowledge-graphs](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs)
-    
-11.  Youth Participatory Action Research | Learner Variability Project, [https://lvp.digitalpromiseglobal.org/content-area/portrait-of-a-learner-9-12/strategies/youth-participatory-action-research-portrait-of-a-learner-9-12/summary](https://lvp.digitalpromiseglobal.org/content-area/portrait-of-a-learner-9-12/strategies/youth-participatory-action-research-portrait-of-a-learner-9-12/summary)
-    
-12.  Understanding Participatory Action Research Example - Best Dissertation Writers, [https://bestdissertationwriter.com/participatory-action-research-example/](https://bestdissertationwriter.com/participatory-action-research-example/)
-    
-13.  Example 5: Youth Participatory Action Research for the 8th Grade Civics (civics), [https://yppactionframe.fas.harvard.edu/example-5-youth-participatory-action-research](https://yppactionframe.fas.harvard.edu/example-5-youth-participatory-action-research)
-    
-14.  Participatory Action Research Model in 2024 - Insight7 - AI Tool For ..., [https://insight7.io/participatory-action-research-model-in-2024/](https://insight7.io/participatory-action-research-model-in-2024/)
-    
-15.  Full article: The 7 C's framework for participatory action research: inducting novice participant-researchers, [https://www.tandfonline.com/doi/full/10.1080/09650792.2023.2234417](https://www.tandfonline.com/doi/full/10.1080/09650792.2023.2234417)
-    
-16.  Split decision: Why Sudan is on the brink of partition—again | ECFR, [https://ecfr.eu/publication/split-decision-why-sudan-is-on-the-brink-of-partition-again/](https://ecfr.eu/publication/split-decision-why-sudan-is-on-the-brink-of-partition-again/)
-    
-17.  Internet in Conflict: Sudan's Battle for Connection - The Tahrir Institute for Middle East Policy, [https://timep.org/2024/09/19/internet-in-conflict-sudans-battle-for-connection/](https://timep.org/2024/09/19/internet-in-conflict-sudans-battle-for-connection/)
-    
-18.  Sudan: Freedom on the Net 2024 Country Report, [https://freedomhouse.org/country/sudan/freedom-net/2024](https://freedomhouse.org/country/sudan/freedom-net/2024)
-    
-19.  Sudan conflict: internet shutdowns deepening a humanitarian crisis - Access Now, [https://www.accessnow.org/the-sudan-conflict-how-internet-shutdowns-deepen-a-humanitarian-crisis/](https://www.accessnow.org/the-sudan-conflict-how-internet-shutdowns-deepen-a-humanitarian-crisis/)
-    
-20.  #KeepItOn in times of war: Sudan's communications shutdown must be reversed urgently - Access Now, [https://www.accessnow.org/press-release/keepiton-sudan-shutdown/](https://www.accessnow.org/press-release/keepiton-sudan-shutdown/)
-    
-21.  Sudan: Internet shutdown threatens delivery of humanitarian and emergency services, [https://www.amnesty.org/en/latest/news/2024/03/sudan-internet-shutdown-threatens-delivery-of-humanitarian-and-emergency-services/](https://www.amnesty.org/en/latest/news/2024/03/sudan-internet-shutdown-threatens-delivery-of-humanitarian-and-emergency-services/)
-    
-22.  Oral History in Somalia and South Sudan - Rift Valley Institute, [https://riftvalley.net/events/oral-history-somalia-and-south-sudan/](https://riftvalley.net/events/oral-history-somalia-and-south-sudan/)
-    
-23.  Oral Traditions | indigenousfoundations, [https://indigenousfoundations.arts.ubc.ca/oral\_traditions/](https://indigenousfoundations.arts.ubc.ca/oral_traditions/)
-    
-24.  Pear by Holepunch | Pears.com, [https://docs.pears.com/](https://docs.pears.com/)
-    
-25.  Holepunch launches Pear Runtime, an open-source peer-to-peer app development platform, [https://sdtimes.com/open-source/holepunch-launches-pear-runtime-an-open-source-peer-to-peer-app-development-platform/](https://sdtimes.com/open-source/holepunch-launches-pear-runtime-an-open-source-peer-to-peer-app-development-platform/)
-    
-26.  Holepunch unveils groundbreaking open-source peer-to-peer app development platform: Pear Runtime, [https://pears.com/news/holepunch-unveils-groundbreaking-open-source-peer-to-peer-app-development-platform-pear-runtime/](https://pears.com/news/holepunch-unveils-groundbreaking-open-source-peer-to-peer-app-development-platform-pear-runtime/)
-    
-27.  Tether CEO Paolo Ardoino teases potential Pear Phone powered by P2P apps - CryptoSlate, [https://cryptoslate.com/tether-ceo-paolo-ardoino-teases-potential-pear-phone-powered-by-p2p-apps/](https://cryptoslate.com/tether-ceo-paolo-ardoino-teases-potential-pear-phone-powered-by-p2p-apps/)
-    
-28.  Tether, Holepunch, and Synonym Launch Pear Credit, a P2P Credit System, [https://tether.io/news/tether-holepunch-and-synonym-launch-pear-credit-a-p2p-credit-system/](https://tether.io/news/tether-holepunch-and-synonym-launch-pear-credit-a-p2p-credit-system/)
-    
-29.  Holepunch Unveils P2P Platform "Pear Runtime" | Hacker News, [https://news.ycombinator.com/item?id=39373960](https://news.ycombinator.com/item?id=39373960)
-    
-30.  Autobase | Pears.com - Pear by Holepunch - Pear Runtime, [https://docs.pears.com/building-blocks/autobase](https://docs.pears.com/building-blocks/autobase)
-    
-31.  Holepunch, [https://holepunch.to/](https://holepunch.to/)
-    
-32.  Holepunch - GitHub, [https://github.com/holepunchto](https://github.com/holepunchto)
-    
-33.  dat-ecosystem, [https://dat-ecosystem.org/](https://dat-ecosystem.org/)
-    
-34.  ipld/docs: All you need to know about IPLD - GitHub, [https://github.com/ipld/docs](https://github.com/ipld/docs)
-    
-35.  IPLD Schemas, [https://ipld.io/docs/schemas/](https://ipld.io/docs/schemas/)
-    
-36.  IPLD The Brief Primer, [https://ipld.io/docs/intro/primer/](https://ipld.io/docs/intro/primer/)
-    
-37.  IPLD Docs, [https://ipld.io/docs/](https://ipld.io/docs/)
-    
-38.  IPLD Schemas: Introduction, [https://ipld.io/docs/schemas/intro/](https://ipld.io/docs/schemas/intro/)
-    
-39.  Concepts | IPFS Docs, [https://docs.ipfs.tech/concepts/](https://docs.ipfs.tech/concepts/)
-    
-40.  TDeFi Blogs - Decentralized Science (DeSci): A Narrative hidden in shadows?, [https://tde.fi/founder-resource/blogs/meme/decentralized-science-desci-a-narrative-hidden-in-shadows/](https://tde.fi/founder-resource/blogs/meme/decentralized-science-desci-a-narrative-hidden-in-shadows/)
-    
-41.  DeSci: Transforming Research with Decentralized Science - Bankless, [https://www.bankless.com/the-essentials-of-desci](https://www.bankless.com/the-essentials-of-desci)
-    
-42.  Inside DeSci: Sector Overview and 40+ Projects List - DWF Labs, [https://www.dwf-labs.com/research/488-decentralised-science-desci-projects-overview](https://www.dwf-labs.com/research/488-decentralised-science-desci-projects-overview)
-    
-43.  Breaking barriers: Decentralized science (DeSci) - Phantom, [https://phantom.com/learn/crypto-101/decentralized-science-desci](https://phantom.com/learn/crypto-101/decentralized-science-desci)
-    
-44.  Decentralized Science \[DeSci\], Crypto Concepts: Beginner's Guide - DIA oracles, [https://www.diadata.org/crypto-narratives/decentralized-science-desci/](https://www.diadata.org/crypto-narratives/decentralized-science-desci/)
-    
-45.  A curated list of awesome DeSci resources, projects, events, articles and more - GitHub, [https://github.com/DeSciWorldDAO/awesome-desci](https://github.com/DeSciWorldDAO/awesome-desci)
-    
-46.  What is decentralized science (DeSci)? - The Block, [https://www.theblock.co/learn/342505/what-is-decentralized-science-desci](https://www.theblock.co/learn/342505/what-is-decentralized-science-desci)
-    
-47.  Decentralized Science Development Company | DeSci Development Solutions, [https://www.hivelance.com/desci-development-company](https://www.hivelance.com/desci-development-company)
-    
-48.  Decentralized Science (DeSci) - The Next Big Blockchain Development? - Phemex, [https://phemex.com/academy/decentralized-science-desci-the-next-big-blockchain-development](https://phemex.com/academy/decentralized-science-desci-the-next-big-blockchain-development)
-    
-49.  What Is Decentralized Science (DeSci)? - OSL, [https://osl.com/academy/article/what-is-decentralized-science-desci](https://osl.com/academy/article/what-is-decentralized-science-desci)
-    
-50.  How Decentralized Science (DeSci) Improves Research - Ulam Labs, [https://www.ulam.io/blog/how-decentralized-science-is-revolutionizing-research](https://www.ulam.io/blog/how-decentralized-science-is-revolutionizing-research)
-    
-51.  Top 5 Projects in Decentralized Science DeSci - DroomDroom, [https://droomdroom.com/top-projects-in-decentralized-science-desci/](https://droomdroom.com/top-projects-in-decentralized-science-desci/)
-    
-52.  What Is Decentralized Science (DeSci)? - Hacken.io, [https://hacken.io/discover/decentralized-science-desci/](https://hacken.io/discover/decentralized-science-desci/)
-    
-53.  Sudan'S Cultural Diversity: Exploring Ethnic Groups And Indigenous Languages, [https://afrodiscovery.com/country/sudan/sudan-tribes-languages/sudans-cultural-diversity-exploring-ethnic-groups-and-indigenous-languages/](https://afrodiscovery.com/country/sudan/sudan-tribes-languages/sudans-cultural-diversity-exploring-ethnic-groups-and-indigenous-languages/)
-    
-54.  Oral traditions and expressions including language as a vehicle of ..., [https://ich.unesco.org/en/oral-traditions-and-expressions-00053](https://ich.unesco.org/en/oral-traditions-and-expressions-00053)
-    
-55.  Converting donation to transaction: how platform capitalism exploits ..., [https://academic.oup.com/ser/article/21/4/1897/7058165](https://academic.oup.com/ser/article/21/4/1897/7058165)
-    
-56.  Using Oral History to Redress Moral Degeneration Amongst the Youth in Higher Education Institutions of South Africa | E-Journal of Religious and Theological Studies, [https://www.ajol.info/index.php/erats/article/view/288458](https://www.ajol.info/index.php/erats/article/view/288458)
-    
-57.  The Power of Digital Inclusion - WCET - WICHE, [https://wcet.wiche.edu/frontiers/2018/02/15/the-power-of-digital-inclusion/](https://wcet.wiche.edu/frontiers/2018/02/15/the-power-of-digital-inclusion/)
-    
-58.  Principles for Digital Development, [https://digitalprinciples.org/](https://digitalprinciples.org/)
-    
-59.  Principles for Digital Development - INEE, [https://inee.org/resources/principles-digital-development](https://inee.org/resources/principles-digital-development)
-    
-60.  The Principles for Digital Development have been refreshed for the next decade. Here's how., [https://digitalprinciples.org/2024/03/29/the-principles-for-digital-development-have-been-refreshed-for-the-next-decade-heres-how/](https://digitalprinciples.org/2024/03/29/the-principles-for-digital-development-have-been-refreshed-for-the-next-decade-heres-how/)
-    
-61.  Digital work platform: Understanding platforms, workers, clients in a ..., [https://pmc.ncbi.nlm.nih.gov/articles/PMC9845709/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9845709/)
-    
-62.  Platform labour in search of value - International Labour Organization, [https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed\_emp/@emp\_ent/@coop/documents/publication/wcms\_809250.pdf](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_emp/@emp_ent/@coop/documents/publication/wcms_809250.pdf)
-    
-63.  Who Watches the Watchmen? A Review of Subjective Approaches for Sybil-Resistance in Proof of Personhood Protocols - Frontiers, [https://www.frontiersin.org/articles/10.3389/fbloc.2020.590171/full](https://www.frontiersin.org/articles/10.3389/fbloc.2020.590171/full)
-    
-64.  The Paradox of Pseudonymity - Identity Management Institute®, [https://identitymanagementinstitute.org/the-paradox-of-pseudonymity/](https://identitymanagementinstitute.org/the-paradox-of-pseudonymity/)
-    
-65.  DAO Governance Models 2024: Ultimate Guide to Token vs. Reputation Systems, [https://www.rapidinnovation.io/post/dao-governance-models-explained-token-based-vs-reputation-based-systems](https://www.rapidinnovation.io/post/dao-governance-models-explained-token-based-vs-reputation-based-systems)
-    
-66.  Decentralized reputation - Cryptology ePrint Archive, [https://eprint.iacr.org/2020/761.pdf](https://eprint.iacr.org/2020/761.pdf)
-    
-67.  Reputation Systems for Anonymous Networks - CS@Columbia, [https://www.cs.columbia.edu/~smb/papers/anonrep.pdf](https://www.cs.columbia.edu/~smb/papers/anonrep.pdf)
-    
-68.  Building Trust and Reputation Systems in Web3 - BlockApps Inc., [https://blockapps.net/blog/building-trust-and-reputation-systems-in-web3/](https://blockapps.net/blog/building-trust-and-reputation-systems-in-web3/)
-    
-69.  How Onchain Identity is Shaping Web3 Professional Reputations - Joba Network, [https://www.joba.network/blog/how-onchain-identity-is-shaping-web3-professional-reputations](https://www.joba.network/blog/how-onchain-identity-is-shaping-web3-professional-reputations)
-    
-70.  Exploring Decentralised Reputation and Its Use Cases - cheqd, [https://cheqd.io/blog/exploring-decentralised-reputation-and-its-use-cases/](https://cheqd.io/blog/exploring-decentralised-reputation-and-its-use-cases/)
-    
-71.  Reputation by Design: Using Web 3.0 to Build Trust Online, [https://www.internetreputation.com/reputation-by-design-using-web-3-0-to-build-trust-online/](https://www.internetreputation.com/reputation-by-design-using-web-3-0-to-build-trust-online/)
-    
-72.  Types Of Reputation Systems - FasterCapital, [https://fastercapital.com/topics/types-of-reputation-systems.html](https://fastercapital.com/topics/types-of-reputation-systems.html)
-    
-73.  Top Reputation System for Trust in Smart Contracts - Nadcab Labs, [https://www.nadcab.com/blog/smart-contract-reputation-systems](https://www.nadcab.com/blog/smart-contract-reputation-systems)
-    
-74.  A Novel Framework for Reputation-Based Systems - a16z crypto, [https://a16zcrypto.com/posts/article/reputation-based-systems/](https://a16zcrypto.com/posts/article/reputation-based-systems/)
-    
-75.  research/reputation/docs/initialization.md at master · witnet/research - GitHub, [https://github.com/witnet/research/blob/master/reputation/docs/initialization.md](https://github.com/witnet/research/blob/master/reputation/docs/initialization.md)
-    
-76.  Survey on social reputation mechanisms: Someone told me I can trust you - ResearchGate, [https://www.researchgate.net/publication/366246884\_Survey\_on\_social\_reputation\_mechanisms\_Someone\_told\_me\_I\_can\_trust\_you](https://www.researchgate.net/publication/366246884_Survey_on_social_reputation_mechanisms_Someone_told_me_I_can_trust_you)
-    
-77.  (PDF) A Reputation-based Trust Management System for P2P Networks - ResearchGate, [https://www.researchgate.net/publication/220284409\_A\_Reputation-based\_Trust\_Management\_System\_for\_P2P\_Networks](https://www.researchgate.net/publication/220284409_A_Reputation-based_Trust_Management_System_for_P2P_Networks)
-    
-78.  A peer to peer reputation system based on a rolling blockchain - temtum, [https://temtum.com/static/478635b7b627918784a08b3459c40670/rep-on-the-roll-a-peer-to-peer-reputation-system-based-on-a-rolling-blockchain.pdf](https://temtum.com/static/478635b7b627918784a08b3459c40670/rep-on-the-roll-a-peer-to-peer-reputation-system-based-on-a-rolling-blockchain.pdf)
-    
-79.  \[2409.09329\] Reputation-Driven Peer-to-Peer Live Streaming Architecture for Preventing Free-Riding - arXiv, [https://arxiv.org/abs/2409.09329](https://arxiv.org/abs/2409.09329)
-    
-80.  Design Considerations for Decentralized Reputation Systems - GitHub, [https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/final-documents/reputation-design.md](https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/final-documents/reputation-design.md)
-    
-81.  DAO Governance: Effectively Create And Manage Governance Tokens | Bitbond, [https://www.bitbond.com/resources/dao-governance-effectively-create-and-manage-governance-tokens/](https://www.bitbond.com/resources/dao-governance-effectively-create-and-manage-governance-tokens/)
-    
-82.  What is Reputation-Based Voting in DAOs - Colony Blog, [https://blog.colony.io/what-is-reputation-based-governance/](https://blog.colony.io/what-is-reputation-based-governance/)
-    
-83.  Platform Cooperativism: Challenging the Corporate Sharing Economy - Rosa Luxemburg Stiftung, [https://rosalux.nyc/wp-content/uploads/2020/11/RLS-NYC\_platformcoop.pdf](https://rosalux.nyc/wp-content/uploads/2020/11/RLS-NYC_platformcoop.pdf)
-    
-84.  Knowledge Graphs with LLMs: Optimizing Decision-Making - Addepto, [https://addepto.com/blog/leveraging-knowledge-graphs-with-llms-a-business-guide-to-enhanced-decision-making/](https://addepto.com/blog/leveraging-knowledge-graphs-with-llms-a-business-guide-to-enhanced-decision-making/)
-    
-85.  How knowledge graphs form a system of truth underpinning agentic apps - Hypermode, [https://hypermode.com/blog/how-knowledge-graphs-underpin-ai-agent-applications](https://hypermode.com/blog/how-knowledge-graphs-underpin-ai-agent-applications)
-    
-86.  Knowledge Graph Tools: The Ultimate Guide - PuppyGraph, [https://www.puppygraph.com/blog/knowledge-graph-tools](https://www.puppygraph.com/blog/knowledge-graph-tools)
-    
-87.  How to Build a Knowledge Graph for Beginners\[+Step & Tips\] - PageOn.ai, [https://www.pageon.ai/blog/how-to-build-a-knowledge-graph](https://www.pageon.ai/blog/how-to-build-a-knowledge-graph)
-    
-88.  What is a Knowledge Graph in SEO? | Schema App Solutions, [https://www.schemaapp.com/schema-markup/what-is-a-content-knowledge-graph/](https://www.schemaapp.com/schema-markup/what-is-a-content-knowledge-graph/)
-    
-89.  AGENTiGraph: An Interactive Knowledge Graph Platform for LLM-based Chatbots Utilizing Private Data - arXiv, [https://arxiv.org/html/2410.11531v1](https://arxiv.org/html/2410.11531v1)
-    
-90.  Knowledge graphs in machine learning: Significance, applications and development, [https://www.leewayhertz.com/knowledge-graph-in-machine-learning/](https://www.leewayhertz.com/knowledge-graph-in-machine-learning/)
-    
-91.  Merging LLMs and Knowledge Graphs - Datavid, [https://datavid.com/blog/merging-large-language-models-and-knowledge-graphs-integration](https://datavid.com/blog/merging-large-language-models-and-knowledge-graphs-integration)
-    
-92.  Knowledge graph visualization: A comprehensive guide \[with examples\] - Datavid, [https://datavid.com/blog/knowledge-graph-visualization](https://datavid.com/blog/knowledge-graph-visualization)
-    
-93.  Visualizing a Knowledge Graph? - Qlik Dork, [https://qlikdork.com/2025/01/visualizing-a-knowledge-graph/](https://qlikdork.com/2025/01/visualizing-a-knowledge-graph/)
-    
-94.  Knowledge graph embedding by reflection transformation - ResearchGate, [https://www.researchgate.net/publication/356888173\_Knowledge\_graph\_embedding\_by\_reflection\_transformation](https://www.researchgate.net/publication/356888173_Knowledge_graph_embedding_by_reflection_transformation)
-    
-95.  Knowledge Graphs in Practice: Characterizing their Users, Challenges, and Visualization Opportunities - arXiv, [https://arxiv.org/html/2304.01311v4](https://arxiv.org/html/2304.01311v4)
-    
-96.  Digital media innovations through participatory action research - DiVA portal, [https://www.diva-portal.org/smash/get/diva2:1680681/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2:1680681/FULLTEXT01.pdf)
-    
-97.  What is Participatory Action Research ? — Indeemo, [https://indeemo.com/blog/what-is-participatory-action-research](https://indeemo.com/blog/what-is-participatory-action-research)
-    
-98.  A Guide to Documenting Action Research in Education - Teachers Institute, [https://teachers.institute/learning-teaching/documenting-action-research-education/](https://teachers.institute/learning-teaching/documenting-action-research-education/)
-    
-99.  Participatory Action Research: A Toolkit - University of Reading, [https://research.reading.ac.uk/community-based-research/wp-content/uploads/sites/114/2023/06/PAR-Toolkit-v10.pdf](https://research.reading.ac.uk/community-based-research/wp-content/uploads/sites/114/2023/06/PAR-Toolkit-v10.pdf)
-    
-100.  Participatory Action Research Approach to Planning, Reflection, and Documentation - Animating Democracy, [https://animatingdemocracy.org/sites/default/files/documents/resources/tools/participatory\_action\_research.pdf](https://animatingdemocracy.org/sites/default/files/documents/resources/tools/participatory_action_research.pdf)
-    
-101.  Conducting Virtual Youth-Led Participatory Action Research (YPAR) During the COVID-19 Pandemic, [https://jprm.scholasticahq.com/article/37029-conducting-virtual-youth-led-participatory-action-research-ypar-during-the-covid-19-pandemic](https://jprm.scholasticahq.com/article/37029-conducting-virtual-youth-led-participatory-action-research-ypar-during-the-covid-19-pandemic)
-    
-102.  Co-Designing a Programme Level Approach to Information and Digital Literacy: Initial Reflections from Our Participatory Action Research Project - Purdue e-Pubs, [https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2252&context=iatul](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2252&context=iatul)
-    
-103.  Digital tools for real-time data collection in education - Brookings Institution, [https://www.brookings.edu/articles/digital-tools-for-real-time-data-collection-in-education/](https://www.brookings.edu/articles/digital-tools-for-real-time-data-collection-in-education/)
-    
-104.  Reflections on Implementing Participatory Action Research in Engineering - ResearchGate, [https://www.researchgate.net/publication/373202042\_Reflections\_on\_Implementing\_Participatory\_Action\_Research\_in\_Engineering](https://www.researchgate.net/publication/373202042_Reflections_on_Implementing_Participatory_Action_Research_in_Engineering)
-    
-105.  What is participatory design? | IxDF, [https://www.interaction-design.org/literature/topics/participatory-design](https://www.interaction-design.org/literature/topics/participatory-design)
-    
-106.  What is Action Research? — updated 2025 | IxDF - The Interaction Design Foundation, [https://www.interaction-design.org/literature/topics/action-research](https://www.interaction-design.org/literature/topics/action-research)
-    
-107.  Participatory Reflection and Action - Participedia, [https://participedia.net/method/participatory-reflection-and-action](https://participedia.net/method/participatory-reflection-and-action)
-    
-108.  Navigating participatory research: a visual guide - Durham University, [https://www.durham.ac.uk/media/durham-university/departments-/sociology/Navigating-Participatory-Research\_A-Visual-Guide.pdf](https://www.durham.ac.uk/media/durham-university/departments-/sociology/Navigating-Participatory-Research_A-Visual-Guide.pdf)
-    
-109.  More than a User: Implementing Participatory Research Methods in UX, [https://info.keylimeinteractive.com/more-than-a-user-implementing-participatory-research-methods-in-ux](https://info.keylimeinteractive.com/more-than-a-user-implementing-participatory-research-methods-in-ux)
-    
-110.  Participatory Design in Practice | UX Magazine, [https://uxmag.com/articles/participatory-design-in-practice](https://uxmag.com/articles/participatory-design-in-practice)
-    
-111.  Using a Participatory Action Research Approach to Design a Lecture Podcasting System, [https://www.researchgate.net/publication/262357201\_Using\_a\_Participatory\_Action\_Research\_Approach\_to\_Design\_a\_Lecture\_Podcasting\_System](https://www.researchgate.net/publication/262357201_Using_a_Participatory_Action_Research_Approach_to_Design_a_Lecture_Podcasting_System)
-    
-112.  Peer-to-peer - Wikipedia, [https://en.wikipedia.org/wiki/Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)
-    
-113.  Peer-to-Peer Networks: Basics, Benefits, and Applications Explained | Hivenet, [https://www.hivenet.com/post/peer-to-peer-networks-understanding-the-basics-and-benefits](https://www.hivenet.com/post/peer-to-peer-networks-understanding-the-basics-and-benefits)
-    
-114.  offline-first/README.md at master - GitHub, [https://github.com/pazguille/offline-first/blob/master/README.md](https://github.com/pazguille/offline-first/blob/master/README.md)
-    
-115.  HOLEPUNCH UNVEILS GROUNDBREAKING OPEN-SOURCE PEER-TO-PEER APP DEVELOPMENT PLATFORM: PEAR RUNTIME - PR Newswire, [https://www.prnewswire.com/news-releases/holepunch-unveils-groundbreaking-open-source-peer-to-peer-app-development-platform-pear-runtime-302061356.html](https://www.prnewswire.com/news-releases/holepunch-unveils-groundbreaking-open-source-peer-to-peer-app-development-platform-pear-runtime-302061356.html)
-    
-116.  Peer to Peer Technology with Pear and Keet by Holepunch | David Mark Clements | Beyond Coding #171 - YouTube, [https://www.youtube.com/watch?v=ww-fm0YZ9Dw](https://www.youtube.com/watch?v=ww-fm0YZ9Dw)
-    
-117.  Workshop: Build Peer-to-Peer Applications with Pear Runtime - YouTube, [https://www.youtube.com/watch?v=8BsMDDHku64](https://www.youtube.com/watch?v=8BsMDDHku64)
-    
-118.  pear-docs/apps/keet.md at main - GitHub, [https://github.com/holepunchto/pear-docs/blob/main/apps/keet.md](https://github.com/holepunchto/pear-docs/blob/main/apps/keet.md)
-    
-119.  Pears | Unleash the Power of P2P, [https://pears.com/](https://pears.com/)
-    
-120.  holepunchto/pear-docs - GitHub, [https://github.com/holepunchto/pear-docs](https://github.com/holepunchto/pear-docs)
-    
-121.  Corestore | Pears.com, [https://docs.pears.com/helpers/corestore](https://docs.pears.com/helpers/corestore)
-    
-122.  Corestore | Hypercore Protocol, [https://hypercore-protocol.github.io/new-website/guides/modules/corestore/](https://hypercore-protocol.github.io/new-website/guides/modules/corestore/)
-    
-123.  Anonymous and Distributed Authentication for Peer to Peer Networks - GitHub, [https://cepdnaclk.github.io/e15-4yp-anonymous-authentication/](https://cepdnaclk.github.io/e15-4yp-anonymous-authentication/)
-    
-124.  Robust Accounting in Decentralized P2P Storage Systems - University of Minnesota, [https://www-users.cse.umn.edu/~hoppernj/icdcs\_p2p\_storage\_accounting.pdf](https://www-users.cse.umn.edu/~hoppernj/icdcs_p2p_storage_accounting.pdf)
-    
-125.  holepunchto/pear: combined Peer-to-Peer (P2P) Runtime, Development & Deployment tool, [https://github.com/holepunchto/pear](https://github.com/holepunchto/pear)
-    
-126.  A Survey of Peer-to-Peer Security Issues - Rice University, [https://www.cs.rice.edu/~dwallach/pub/tokyo-p2p2002.pdf](https://www.cs.rice.edu/~dwallach/pub/tokyo-p2p2002.pdf)
-    
-127.  Enhancing Data Authenticity and Integrity in P2P Systems - GMU CS Department, [https://cs.gmu.edu/~sqchen/publications/ic-magazine-2005.pdf](https://cs.gmu.edu/~sqchen/publications/ic-magazine-2005.pdf)
-    
-128.  Peer-to-Peer File Sharing Explained: Benefits, Risks & Innovations | Hivenet, [https://www.hivenet.com/post/top-peer-to-peer-sharing-solutions-for-effortless-file-transfer](https://www.hivenet.com/post/top-peer-to-peer-sharing-solutions-for-effortless-file-transfer)
-    
-129.  Hypercore | Pears.com - Pear by Holepunch - Pear Runtime, [https://docs.pears.com/building-blocks/hypercore](https://docs.pears.com/building-blocks/hypercore)
-    
-130.  Making a Pear Desktop Application | Pears.com, [https://docs.pears.com/guides/making-a-pear-desktop-app](https://docs.pears.com/guides/making-a-pear-desktop-app)
-    
-131.  Pear Runtime: Zero-Infrastructure, P2P High-Scale Applications - GitNation, [https://gitnation.com/contents/pear-runtime-zero-infrastructure-high-scale-applications](https://gitnation.com/contents/pear-runtime-zero-infrastructure-high-scale-applications)
-    
-132.  Hyperswarm | Pears.com, [https://docs.pears.com/building-blocks/hyperswarm](https://docs.pears.com/building-blocks/hyperswarm)
-    
-133.  pear-docs/guide/getting-started.md at main - GitHub, [https://github.com/holepunchto/pear-docs/blob/main/guide/getting-started.md](https://github.com/holepunchto/pear-docs/blob/main/guide/getting-started.md)
-    
-134.  holepunch.to website terms, [https://holepunch.to/terms](https://holepunch.to/terms)
-    
-135.  Plugin - HolePunch Pear Tools, [https://holepunch.pointsville.com/pear-tools/plugin](https://holepunch.pointsville.com/pear-tools/plugin)
-    
-136.  hypercore - NPM, [https://www.npmjs.com/hypercore](https://www.npmjs.com/hypercore)
-    
-137.  Hypercore Protocol, [https://hypercore-protocol.github.io/new-website/guides/modules/hypercore/](https://hypercore-protocol.github.io/new-website/guides/modules/hypercore/)
-    
-138.  Hypercore Protocol, [https://hypercore-protocol.github.io/new-website/](https://hypercore-protocol.github.io/new-website/)
-    
-139.  Data Architecture | community - GitHub Pages, [https://tradle.github.io/community/docs/FAQ.html](https://tradle.github.io/community/docs/FAQ.html)
-    
-140.  Beginner's Guide to Event Sourcing - Kurrent, [https://www.kurrent.io/event-sourcing](https://www.kurrent.io/event-sourcing)
-    
-141.  why-hypercore/FAQ.md at master - GitHub, [https://github.com/tradle/why-hypercore/blob/master/FAQ.md](https://github.com/tradle/why-hypercore/blob/master/FAQ.md)
-    
-142.  Represent hypercore in IPLD · Issue #15 · ipfs-shipyard/integration ..., [https://github.com/ipfs/integration-mini-projects/issues/15](https://github.com/ipfs/integration-mini-projects/issues/15)
-    
-143.  Manage multiple Hypercores | Pears.com, [https://docs.pears.com/how-tos/work-with-many-hypercores-using-corestore](https://docs.pears.com/how-tos/work-with-many-hypercores-using-corestore)
-    
-144.  hyperbee - NPM, [https://www.npmjs.com/package/hyperbee](https://www.npmjs.com/package/hyperbee)
-    
-145.  Hyperbee | Pears.com - Pear by Holepunch - Pear Runtime, [https://docs.pears.com/building-blocks/hyperbee](https://docs.pears.com/building-blocks/hyperbee)
-    
-146.  Hyperbee | Hypercore Protocol, [https://hypercore-protocol.github.io/new-website/guides/modules/hyperbee/](https://hypercore-protocol.github.io/new-website/guides/modules/hyperbee/)
-    
-147.  Projects in Awesome Lists by holepunchto, [https://awesome.ecosyste.ms/projects?owner=holepunchto](https://awesome.ecosyste.ms/projects?owner=holepunchto)
-    
-148.  gasolin/awesome-pears - GitHub, [https://github.com/gasolin/awesome-pears](https://github.com/gasolin/awesome-pears)
-    
-149.  Autobase lets you write concise multiwriter data structures with Hypercore - GitHub, [https://github.com/holepunchto/autobase](https://github.com/holepunchto/autobase)
-    
-150.  www.vldb.org, [https://www.vldb.org/pvldb/vol16/p856-power.pdf](https://www.vldb.org/pvldb/vol16/p856-power.pdf)
-    
-151.  CRDTs go brrr - Seph, [https://josephg.com/blog/crdts-go-brrr/](https://josephg.com/blog/crdts-go-brrr/)
-    
-152.  What do you recommend for conflict-free replicated data type (CRDT) support in Rust?, [https://www.reddit.com/r/rust/comments/1064f9s/what\_do\_you\_recommend\_for\_conflictfree\_replicated/](https://www.reddit.com/r/rust/comments/1064f9s/what_do_you_recommend_for_conflictfree_replicated/)
-    
-153.  \`hypercore\` and \`Yjs\` : how to make them work together, without ..., [https://github.com/hypercore-protocol/hypercore/issues/296](https://github.com/hypercore-protocol/hypercore/issues/296)
-    
-154.  You don't need a CRDT to build a collaborative experience - Hacker News, [https://news.ycombinator.com/item?id=38289327](https://news.ycombinator.com/item?id=38289327)
-    
-155.  Local-First Software, [https://localfirstweb.dev/](https://localfirstweb.dev/)
-    
-156.  Re: \[DISCUSSION\] Contributing policy for WORG - GNU mailing lists, [https://lists.gnu.org/r/emacs-orgmode/2025-01/msg00255.html](https://lists.gnu.org/r/emacs-orgmode/2025-01/msg00255.html)
-    
-157.  Quantifying the Performance of Conflict-free Replicated Data Types in InterPlanetary File System - OpenReview, [https://openreview.net/pdf?id=XFYg5qxZS6](https://openreview.net/pdf?id=XFYg5qxZS6)
-    
-158.  The Blocklace: A Universal, Byzantine Fault-Tolerant, Conflict-free Replicated Data Type, [https://arxiv.org/html/2402.08068v3](https://arxiv.org/html/2402.08068v3)
-    
-159.  A comprehensive study of Convergent and Commutative Replicated Data Types | Request PDF - ResearchGate, [https://www.researchgate.net/publication/50949847\_A\_comprehensive\_study\_of\_Convergent\_and\_Commutative\_Replicated\_Data\_Types](https://www.researchgate.net/publication/50949847_A_comprehensive_study_of_Convergent_and_Commutative_Replicated_Data_Types)
-    
-160.  \[PDF\] Merkle-CRDTs: Merkle-DAGs meet CRDTs - Semantic Scholar, [https://www.semanticscholar.org/paper/Merkle-CRDTs%3A-Merkle-DAGs-meet-CRDTs-Sanju%C3%A1n-Poyhtari/d3ff8801a118e13f2a7485a6d33529b170e75d91](https://www.semanticscholar.org/paper/Merkle-CRDTs%3A-Merkle-DAGs-meet-CRDTs-Sanju%C3%A1n-Poyhtari/d3ff8801a118e13f2a7485a6d33529b170e75d91)
-    
-161.  Approaches to Conflict-free Replicated Data Types | Request PDF - ResearchGate, [https://www.researchgate.net/publication/383882795\_Approaches\_to\_Conflict-free\_Replicated\_Data\_Types](https://www.researchgate.net/publication/383882795_Approaches_to_Conflict-free_Replicated_Data_Types)
-    
-162.  \[inria-00555588, v1\] A comprehensive study of Convergent and Commutative Replicated Data Types, [https://dsf.berkeley.edu/cs286/papers/crdt-tr2011.pdf](https://dsf.berkeley.edu/cs286/papers/crdt-tr2011.pdf)
-    
-163.  IPFS Keyword Retrieval System Based on Merkle DAG Inverted Index, [https://wepub.org/index.php/IJCSIT/article/view/1418](https://wepub.org/index.php/IJCSIT/article/view/1418)
-    
-164.  Reversing CRDTs Through Compensating Operations by Yunhao Mao A thesis submitted in conformity with the requirements for the deg - TSpace, [https://tspace.library.utoronto.ca/bitstream/1807/108812/4/Mao\_Yunhao\_202111\_MAS\_thesis.pdf](https://tspace.library.utoronto.ca/bitstream/1807/108812/4/Mao_Yunhao_202111_MAS_thesis.pdf)
-    
-165.  Merkle-CRDTs (DRAFT) - Protocol Labs Research, [https://research.protocol.ai/blog/2019/a-new-lab-for-resilient-networks-research/PL-TechRep-merkleCRDT-v0.1-Dec30.pdf](https://research.protocol.ai/blog/2019/a-new-lab-for-resilient-networks-research/PL-TechRep-merkleCRDT-v0.1-Dec30.pdf)
-    
-166.  research.protocol.ai, [https://research.protocol.ai/publications/merkle-crdts-merkle-dags-meet-crdts/psaras2020.pdf](https://research.protocol.ai/publications/merkle-crdts-merkle-dags-meet-crdts/psaras2020.pdf)
-    
-167.  Nodes and Kinds - IPLD, [https://ipld.io/design/libraries/nodes-and-kinds/](https://ipld.io/design/libraries/nodes-and-kinds/)
-    
-168.  IPLD Data Model Kinds, [https://ipld.io/docs/data-model/kinds/](https://ipld.io/docs/data-model/kinds/)
-    
-169.  IPLD Schema Implementation: parser and utilities - GitHub, [https://github.com/ipld/js-ipld-schema](https://github.com/ipld/js-ipld-schema)
-    
-170.  IPLD Schemas: Migrations, [https://ipld.io/docs/schemas/using/migrations/](https://ipld.io/docs/schemas/using/migrations/)
-    
-171.  IPLD Schemas: Authoring Guide, [https://ipld.io/docs/schemas/using/authoring-guide/](https://ipld.io/docs/schemas/using/authoring-guide/)
-    
-172.  IPLD Schemas: Type Kinds, [https://ipld.io/docs/schemas/features/typekinds/](https://ipld.io/docs/schemas/features/typekinds/)
-    
-173.  IPLD Schema Specs, [https://ipld.io/specs/schemas/](https://ipld.io/specs/schemas/)
-    
-174.  IPLD Schemas: Key Features, [https://ipld.io/docs/schemas/features/](https://ipld.io/docs/schemas/features/)
-    
-175.  Schema Evolution - CelerData, [https://celerdata.com/glossary/schema-evolution](https://celerdata.com/glossary/schema-evolution)
-    
-176.  cyberphone/CBOR.js: CBOR JavaScript API and Reference Implementation - GitHub, [https://github.com/cyberphone/CBOR.js/](https://github.com/cyberphone/CBOR.js/)
-    
-177.  @ipld/dag-pb - npm, [https://www.npmjs.com/package/@ipld/dag-pb](https://www.npmjs.com/package/@ipld/dag-pb)
-    
-178.  cbor2 - NPM, [https://www.npmjs.com/package/cbor2](https://www.npmjs.com/package/cbor2)
-    
-179.  IPLD Intro / Jim Pick - Observable, [https://observablehq.com/@jimpick/ipld-intro](https://observablehq.com/@jimpick/ipld-intro)
-    
-180.  serde\_ipld\_dagcbor - Rust - Docs.rs, [https://docs.rs/serde\_ipld\_dagcbor](https://docs.rs/serde_ipld_dagcbor)
-    
-181.  cbor-js - NPM, [https://www.npmjs.com/package/cbor-js](https://www.npmjs.com/package/cbor-js)
-    
-182.  holepunchto/hyperdht: The DHT powering Hyperswarm - GitHub, [https://github.com/holepunchto/hyperdht](https://github.com/holepunchto/hyperdht)
-    
-183.  Hyperswarm | Hypercore Protocol, [https://hypercore-protocol.github.io/new-website/guides/modules/hyperswarm/](https://hypercore-protocol.github.io/new-website/guides/modules/hyperswarm/)
-    
-184.  RangerMauve/hyper-sdk: Make your own hyper apps! - GitHub, [https://github.com/RangerMauve/hyper-sdk](https://github.com/RangerMauve/hyper-sdk)
-    
-185.  Is it complicated to build P2P Apps? - YouTube, [https://www.youtube.com/watch?v=3rd4W0mPzoI](https://www.youtube.com/watch?v=3rd4W0mPzoI)
-    
-186.  Pear Apps - HolePunch Pear Tools, [https://holepunch.pointsville.com/pear-tools/pear-apps](https://holepunch.pointsville.com/pear-tools/pear-apps)
-    
-187.  Keet | Pears.com, [https://docs.pears.com/apps/keet](https://docs.pears.com/apps/keet)
-    
-188.  Citrix Workspace app 2304 for Mac, [https://docs.citrix.com/en-us/citrix-workspace-app-for-mac/downloads/citrix-workspace-app-2304-for-mac.pdf](https://docs.citrix.com/en-us/citrix-workspace-app-for-mac/downloads/citrix-workspace-app-2304-for-mac.pdf)
-    
-189.  Hunters International Collaborates with Hive Ransomware to Target Windows, Linux, and ESXi Systems, [https://www.varutra.com/ctp/threatpost/postDetails/Hunters-International-Collaborates-with-Hive-Ransomware-to-Target-Windows,-Linux,-and-ESXi-Systems/](https://www.varutra.com/ctp/threatpost/postDetails/Hunters-International-Collaborates-with-Hive-Ransomware-to-Target-Windows,-Linux,-and-ESXi-Systems/)
-    
-190.  Sybil attack - Wikipedia, [https://en.wikipedia.org/wiki/Sybil\_attack](https://en.wikipedia.org/wiki/Sybil_attack)
-    
-191.  What is Sybil Resistance in Blockchain? Understanding Sybil Attacks - Cyfrin, [https://www.cyfrin.io/blog/understanding-sybil-attacks-in-blockchain-and-smart-contracts](https://www.cyfrin.io/blog/understanding-sybil-attacks-in-blockchain-and-smart-contracts)
-    
-192.  Webs of Trust: Choosing Who to Trust on the Internet, [https://www.nortonlifelock.com/content/dam/nortonlifelock/pdfs/research-papers/2020-research-papers/webs-of-trust-choosing-who-to-trust-on-the-internet.pdf](https://www.nortonlifelock.com/content/dam/nortonlifelock/pdfs/research-papers/2020-research-papers/webs-of-trust-choosing-who-to-trust-on-the-internet.pdf)
-    
-193.  Web3 recommendations: balancing trust and relevance #6942 - GitHub, [https://github.com/Tribler/tribler/issues/6942](https://github.com/Tribler/tribler/issues/6942)
-    
-194.  arxiv.org, [https://arxiv.org/pdf/1312.6349](https://arxiv.org/pdf/1312.6349)
-    
-195.  (PDF) Preventing active re-identification attacks on social graphs via sybil subgraph obfuscation - ResearchGate, [https://www.researchgate.net/publication/358891583\_Preventing\_active\_re-identification\_attacks\_on\_social\_graphs\_via\_sybil\_subgraph\_obfuscation](https://www.researchgate.net/publication/358891583_Preventing_active_re-identification_attacks_on_social_graphs_via_sybil_subgraph_obfuscation)
-    
-196.  SybilLimit: A Near-Optimal Social Network Defense against Sybil Attack - ResearchGate, [https://www.researchgate.net/publication/4339925\_SybilLimit\_A\_Near-Optimal\_Social\_Network\_Defense\_against\_Sybil\_Attack](https://www.researchgate.net/publication/4339925_SybilLimit_A_Near-Optimal_Social_Network_Defense_against_Sybil_Attack)
-    
-197.  SybilInfer: Detecting Sybil Nodes using Social Networks - Princeton University, [https://www.princeton.edu/~pmittal/publications/sybilinfer-ndss09.pdf](https://www.princeton.edu/~pmittal/publications/sybilinfer-ndss09.pdf)
-    
-198.  Implementation of a Browser-based P2P Network using WebRTC - the Internet Technologies Group, [https://inet.haw-hamburg.de/teaching/ws-2013-14/master-project/Prj1-report-werner-vogt.pdf](https://inet.haw-hamburg.de/teaching/ws-2013-14/master-project/Prj1-report-werner-vogt.pdf)
-    
-199.  SybilGuard: Defending Against Sybil Attacks via Social Networks - Carnegie Mellon University, [https://www.math.cmu.edu/~adf/research/SybilGuard.pdf](https://www.math.cmu.edu/~adf/research/SybilGuard.pdf)
-    
-200.  SybilPSIoT: Preventing Sybil attacks in signed social internet of things based on web of trust and smart contract - ResearchGate, [https://www.researchgate.net/publication/377851013\_SybilPSIoT\_Preventing\_Sybil\_attacks\_in\_signed\_social\_internet\_of\_things\_based\_on\_web\_of\_trust\_and\_smart\_contract](https://www.researchgate.net/publication/377851013_SybilPSIoT_Preventing_Sybil_attacks_in_signed_social_internet_of_things_based_on_web_of_trust_and_smart_contract)
-    
-201.  Who Watches the Watchmen? A Review of Subjective Approaches for Sybil-Resistance in Proof of Personhood Protocols - ResearchGate, [https://www.researchgate.net/publication/346849259\_Who\_Watches\_the\_Watchmen\_A\_Review\_of\_Subjective\_Approaches\_for\_Sybil-Resistance\_in\_Proof\_of\_Personhood\_Protocols](https://www.researchgate.net/publication/346849259_Who_Watches_the_Watchmen_A_Review_of_Subjective_Approaches_for_Sybil-Resistance_in_Proof_of_Personhood_Protocols)
-    
-202.  What is a Sybil Attack | Examples & Prevention - Imperva, [https://www.imperva.com/learn/application-security/sybil-attack/](https://www.imperva.com/learn/application-security/sybil-attack/)
-    
-203.  A Study of WebRTC Security, [https://webrtc-security.github.io/](https://webrtc-security.github.io/)
-    
-204.  Building Trust in Decentralized Peer-to-Peer Electronic Communities - Georgia Tech, [https://sites.cc.gatech.edu/projects/disl/PeerTrust/pub/xiong02building.pdf](https://sites.cc.gatech.edu/projects/disl/PeerTrust/pub/xiong02building.pdf)
-    
-205.  Addressing False Identity Attacks in Action-based P2P Social Networks with an Open Census - Florida Tech, [https://cs.fit.edu/~msilaghi/pages/papers/IAT2013\_WOSWI.pdf](https://cs.fit.edu/~msilaghi/pages/papers/IAT2013_WOSWI.pdf)
-    
-206.  Survey on social reputation mechanisms: Someone told me I can trust you - arXiv, [https://arxiv.org/pdf/2212.06436](https://arxiv.org/pdf/2212.06436)
-    
-207.  X-Vine: Secure and Pseudonymous Routing Using Social Networks - Princeton University, [https://www.princeton.edu/~pmittal/publications/xvine-ndss12.pdf](https://www.princeton.edu/~pmittal/publications/xvine-ndss12.pdf)
-    
-208.  The Impact Web of Trust Could Change Everything - Gitcoin Governance, [https://gov.gitcoin.co/t/the-impact-web-of-trust-could-change-everything/17635](https://gov.gitcoin.co/t/the-impact-web-of-trust-could-change-everything/17635)
-    
-209.  Blockchain-based Sybil Attack Mitigation: A Case Study of the I2P Network - os3.nl, [https://www.os3.nl/\_media/2017-2018/courses/rp2/p97\_report.pdf](https://www.os3.nl/_media/2017-2018/courses/rp2/p97_report.pdf)
-    
-210.  (PDF) The Sybil Attack (2002) | John R. Douceur | 5230 Citations - SciSpace, [https://scispace.com/papers/the-sybil-attack-500qyzt8pb](https://scispace.com/papers/the-sybil-attack-500qyzt8pb)
-    
-211.  Web of trust - Wikipedia, [https://en.wikipedia.org/wiki/Web\_of\_trust](https://en.wikipedia.org/wiki/Web_of_trust)
-    
-212.  Proof of personhood - Wikipedia, [https://en.wikipedia.org/wiki/Proof\_of\_personhood](https://en.wikipedia.org/wiki/Proof_of_personhood)
-    
-213.  Proof of Personhood | Ledger, [https://www.ledger.com/academy/glossary/proof-of-personhood](https://www.ledger.com/academy/glossary/proof-of-personhood)
-    
-214.  What is Proof of Personhood (PoP)? - Civic Pass, [https://www.civic.com/blog/what-is-proof-of-personhood-pop](https://www.civic.com/blog/what-is-proof-of-personhood-pop)
-    
-215.  Comparative Analysis of Different Proof of Personhood (PoP) Protocols - Humanode, [https://blog.humanode.io/comparative-analysis-of-different-proof-of-personhood-pop-protocols/](https://blog.humanode.io/comparative-analysis-of-different-proof-of-personhood-pop-protocols/)
-    
-216.  Security of Proof-of-Personhood: Idena - EPFL, [https://www.epfl.ch/labs/dedis/wp-content/uploads/2021/07/report-2021-1-jordi-idena\_report.pdf](https://www.epfl.ch/labs/dedis/wp-content/uploads/2021/07/report-2021-1-jordi-idena_report.pdf)
-    
-217.  Personhood Credentials: Human-Centered Design Recommendation Balancing Security, Usability, and Trust - arXiv, [https://arxiv.org/html/2502.16375v1](https://arxiv.org/html/2502.16375v1)
-    
-218.  Log Out. A Glossary of Technological Resistance and Decentralization - UvA-DARE (Digital Academic Repository), [https://pure.uva.nl/ws/files/132859388/Digital\_version\_Logout.pdf](https://pure.uva.nl/ws/files/132859388/Digital_version_Logout.pdf)
-    
-219.  Why Proof of Personhood Matters for Fintech and Web3 Adoption - World Business Outlook, [https://worldbusinessoutlook.com/why-proof-of-personhood-matters-for-fintech-and-web3-adoption/](https://worldbusinessoutlook.com/why-proof-of-personhood-matters-for-fintech-and-web3-adoption/)
-    
-220.  King's Research Portal, [https://kclpure.kcl.ac.uk/portal/files/256740842/sybil\_attack\_vulnerability\_trilemma\_v3\_4.pdf](https://kclpure.kcl.ac.uk/portal/files/256740842/sybil_attack_vulnerability_trilemma_v3_4.pdf)
-    
-221.  Rechained: Sybil-Resistant Distributed Identities for the Internet of Things and Mobile Ad Hoc Networks - PubMed Central, [https://pmc.ncbi.nlm.nih.gov/articles/PMC8125832/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8125832/)
-    
-222.  Securing P2P systems from Sybil attacks through adaptive identity management., [https://dl.ifip.org/db/conf/cnsm/cnsm2011/CordeiroSMBG11.pdf](https://dl.ifip.org/db/conf/cnsm/cnsm2011/CordeiroSMBG11.pdf)
-    
-223.  Hypercore Access Control - GitHub, [https://gist.github.com/RangerMauve/334fa78b7ffe1ebeae8b47313aa3d932](https://gist.github.com/RangerMauve/334fa78b7ffe1ebeae8b47313aa3d932)
-    
-224.  ucan-wg/awake: AWAKE Protocol Specification - GitHub, [https://github.com/ucan-wg/awake](https://github.com/ucan-wg/awake)
-    
-225.  ucan-wg/spec: User Controlled Authorization Network ... - GitHub, [https://github.com/ucan-wg/spec](https://github.com/ucan-wg/spec)
-    
-226.  specs/w3-ucan.md at main · storacha/specs · GitHub, [https://github.com/storacha/specs/blob/main/w3-ucan.md](https://github.com/storacha/specs/blob/main/w3-ucan.md)
-    
-227.  Intro to UCAN - HackMD, [https://hackmd.io/@U0QmLf-zRyyE600Km7fKIw/rJvt-j2Xo](https://hackmd.io/@U0QmLf-zRyyE600Km7fKIw/rJvt-j2Xo)
-    
-228.  UCANs and Storacha, [https://docs.storacha.network/concepts/ucans-and-storacha/](https://docs.storacha.network/concepts/ucans-and-storacha/)
-    
-229.  ucan-storage - GitHub Pages, [https://nftstorage.github.io/ucan.storage/](https://nftstorage.github.io/ucan.storage/)
-    
-230.  Role Based Access Control (RBAC) and Systems Thinking - Idenhaus Consulting, [https://idenhaus.com/role-based-access-control-rbac-systems-thinking/](https://idenhaus.com/role-based-access-control-rbac-systems-thinking/)
-    
-231.  The fundamentals of Role-Based Access Control (RBAC) - BetterCloud, [https://www.bettercloud.com/monitor/the-fundamentals-of-role-based-access-control/](https://www.bettercloud.com/monitor/the-fundamentals-of-role-based-access-control/)
-    
-232.  What is Role-Based Access Control (RBAC)? - CBT Nuggets, [https://www.cbtnuggets.com/blog/technology/security/what-is-role-based-access-control-rbac](https://www.cbtnuggets.com/blog/technology/security/what-is-role-based-access-control-rbac)
-    
-233.  What is Role-Based Access Control (RBAC)? - DigitalOcean, [https://www.digitalocean.com/resources/articles/rbac](https://www.digitalocean.com/resources/articles/rbac)
-    
-234.  Peersky Browser - UCSC OSPO, [https://ucsc-ospo.github.io/project/osre25/ucsc/peersky/](https://ucsc-ospo.github.io/project/osre25/ucsc/peersky/)
-    
-235.  Pear Box - HolePunch Pear Tools, [https://holepunch.pointsville.com/web-apps/pear-box](https://holepunch.pointsville.com/web-apps/pear-box)
-    
-236.  Security - hypercore.ai, [https://www.hypercore.ai/security](https://www.hypercore.ai/security)
-    
-237.  A Decentralized Provenance Network for Linked Open Data - CEUR-WS.org, [https://ceur-ws.org/Vol-2548/paper-10.pdf](https://ceur-ws.org/Vol-2548/paper-10.pdf)
-    
-238.  Decentralized Infrastructure for Versioned Linked Open Data and Scalable Curation Thereof - Damien Graux, [https://dgraux.github.io/supervision/Mahmoodi\_Msc\_2018.pdf](https://dgraux.github.io/supervision/Mahmoodi_Msc_2018.pdf)
-    
-239.  Media Types - Internet Assigned Numbers Authority, [https://www.iana.org/assignments/media-types](https://www.iana.org/assignments/media-types)
-    
-240.  Decentralized E-Voting System Using Blockchain Technology - International Journal of Scientific Research and Engineering Trends, [https://ijsret.com/wp-content/uploads/2024/09/IJSRET\_V10\_issue5\_457.pdf](https://ijsret.com/wp-content/uploads/2024/09/IJSRET_V10_issue5_457.pdf)
-    
-241.  Decentralizing Democracy: Secure and Transparent E-Voting Systems with Blockchain Technology in the Context of Palestine - MDPI, [https://www.mdpi.com/1999-5903/16/11/388](https://www.mdpi.com/1999-5903/16/11/388)
-    
-242.  Metadata about IPLD links, particularly link importance - Protocol - IPFS Forums, [https://discuss.ipfs.tech/t/metadata-about-ipld-links-particularly-link-importance/13884](https://discuss.ipfs.tech/t/metadata-about-ipld-links-particularly-link-importance/13884)
-    
-243.  How to Add Social Media Profiles to Your WordPress Site's Schema - AIOSEO, [https://aioseo.com/add-social-media-profiles-to-your-wordpress-sites-schema/](https://aioseo.com/add-social-media-profiles-to-your-wordpress-sites-schema/)
-    
-244.  The Event Sourcing Pattern? - Exatosoftware, [https://exatosoftware.com/the-event-sourcing-pattern/](https://exatosoftware.com/the-event-sourcing-pattern/)
-    
-245.  Event Sourcing pattern - Azure Architecture Center | Microsoft Learn, [https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing](https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
-    
-246.  Schema Evolution for Event Sourced Actors - Akka Documentation, [https://doc.akka.io/libraries/akka-core/current/persistence-schema-evolution.html](https://doc.akka.io/libraries/akka-core/current/persistence-schema-evolution.html)
-    
-247.  Understanding Event Sourcing: A Detailed Guide - DEV Community, [https://dev.to/alisamir/understanding-event-sourcing-a-detailed-guide-4cjp](https://dev.to/alisamir/understanding-event-sourcing-a-detailed-guide-4cjp)
-    
-248.  The Ultimate Guide to Event-Driven Architecture Patterns - Solace, [https://solace.com/event-driven-architecture-patterns/](https://solace.com/event-driven-architecture-patterns/)
-    
-249.  Comprehensive Guide to Event Sourcing Database Architecture - RisingWave, [https://risingwave.com/blog/comprehensive-guide-to-event-sourcing-database-architecture/](https://risingwave.com/blog/comprehensive-guide-to-event-sourcing-database-architecture/)
-    
-250.  Simple patterns for events schema versioning - Event-Driven.io, [https://event-driven.io/en/simple\_events\_versioning\_patterns/](https://event-driven.io/en/simple_events_versioning_patterns/)
-    
-251.  A Multi-Layered Security Analysis of Blockchain Systems: From Attack Vectors to Defense and System Hardening - arXiv, [https://arxiv.org/html/2504.09181v1](https://arxiv.org/html/2504.09181v1)
-    
-252.  \[1911.01231\] Raft Consensus Algorithm: an Effective Substitute for Paxos in High Throughput P2P-based Systems - ar5iv, [https://ar5iv.labs.arxiv.org/html/1911.01231](https://ar5iv.labs.arxiv.org/html/1911.01231)
-    
-253.  Issues for Robust Consensus Building in P2P Networks - ResearchGate, [https://www.researchgate.net/publication/226303588\_Issues\_for\_Robust\_Consensus\_Building\_in\_P2P\_Networks](https://www.researchgate.net/publication/226303588_Issues_for_Robust_Consensus_Building_in_P2P_Networks)
-    
-254.  Raft | .NEXT - NET, [https://dotnet.github.io/dotNext/features/cluster/raft.html](https://dotnet.github.io/dotNext/features/cluster/raft.html)
-    
-255.  Peer-to-Peer Permissionless Consensus via Authoring Reputation, [http://ceu-lang.org/chico/papers/fc\_xxx22\_pre.pdf](http://ceu-lang.org/chico/papers/fc_xxx22_pre.pdf)
-    
-256.  Research on improvement of DPoS consensus mechanism in collaborative governance of network public opinion - PMC - PubMed Central, [https://pmc.ncbi.nlm.nih.gov/articles/PMC9059699/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9059699/)
+1.  [What is Decentralized Science (DeSci)? | Onchain Magazine](https://onchain.org/magazine/what-is-decentralized-science-desci/)
+2.  [Decentralized Science (DeSci): A Paradigm Shift in Scientific Exploration - TokenMinds](https://tokenminds.co/blog/knowledge-base/decentralized-science)
+3.  [Top Decentralized Science (DeSci) Projects for 2024/2025 | TokenInsight](https://tokeninsight.com/en/tokenwiki/all/top-decentralized-science-desci-projects-for-2024-2025)
+4.  [What Is Decentralized Science (DeSci)? Everything You Need to Know - BNB Chain Blog](https://www.bnbchain.org/fr-FR/blog/what-is-decentralized-science-desci)
+5.  [Radical Inclusion: Seven Steps to Help You Create a More Just Workplace, Home, and World: Sengeh, David Moinina - Amazon.com](https://www.amazon.com/Radical-Inclusion-Seven-Create-Workplace/dp/1250827744)
+6.  [Is Data Labor? Two Conceptions of Work and the User-Platform ...](https://www.cambridge.org/core/journals/business-ethics-quarterly/article/is-data-labor-two-conceptions-of-work-and-the-userplatform-relationship/15E922A1132C86474545D35F7F58426D)
+7.  [A social reproduction analysis of digital care platform work - Taylor ...](https://www.tandfonline.com/doi/pdf/10.1080/13563467.2024.2317703)
+8.  [Step-by-Step Guide to Building a Knowledge Graph in 2025 - PageOn.ai](https://www.pageon.ai/blog/knowledge-graph)
+9.  [Relational Databases vs. Graph Databases: What's the Difference?](https://www.schemaapp.com/schema-markup/relational-databases-vs-graph-databases/)
+10. [Knowledge graphs | The Alan Turing Institute](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs)
+11. [Youth Participatory Action Research | Learner Variability Project](https://lvp.digitalpromiseglobal.org/content-area/portrait-of-a-learner-9-12/strategies/youth-participatory-action-research-portrait-of-a-learner-9-12/summary)
+12. [Understanding Participatory Action Research Example - Best Dissertation Writers](https://bestdissertationwriter.com/participatory-action-research-example/)
+13. [Example 5: Youth Participatory Action Research for the 8th Grade Civics (civics)](https://yppactionframe.fas.harvard.edu/example-5-youth-participatory-action-research)
+14. [Participatory Action Research Model in 2024 - Insight7 - AI Tool For ...](https://insight7.io/participatory-action-research-model-in-2024/)
+15. [Full article: The 7 C's framework for participatory action research: inducting novice participant-researchers](https://www.tandfonline.com/doi/full/10.1080/09650792.2023.2234417)
+16. [Split decision: Why Sudan is on the brink of partition—again | ECFR](https://ecfr.eu/publication/split-decision-why-sudan-is-on-the-brink-of-partition-again/)
+17. [Internet in Conflict: Sudan's Battle for Connection - The Tahrir Institute for Middle East Policy](https://timep.org/2024/09/19/internet-in-conflict-sudans-battle-for-connection/)
+18. [Sudan: Freedom on the Net 2024 Country Report](https://freedomhouse.org/country/sudan/freedom-net/2024)
+19. [Sudan conflict: internet shutdowns deepening a humanitarian crisis - Access Now](https://www.accessnow.org/the-sudan-conflict-how-internet-shutdowns-deepen-a-humanitarian-crisis/)
+20. [\#KeepItOn in times of war: Sudan's communications shutdown must be reversed urgently - Access Now](https://www.accessnow.org/press-release/keepiton-sudan-shutdown/)
+21. [Sudan: Internet shutdown threatens delivery of humanitarian and emergency services](https://www.amnesty.org/en/latest/news/2024/03/sudan-internet-shutdown-threatens-delivery-of-humanitarian-and-emergency-services/)
+22. [Oral History in Somalia and South Sudan - Rift Valley Institute](https://riftvalley.net/events/oral-history-somalia-and-south-sudan/)
+23. [Oral Traditions | indigenousfoundations](https://indigenousfoundations.arts.ubc.ca/oral_traditions/)
+24. [Pear by Holepunch | Pears.com](https://docs.pears.com/)
+25. [Holepunch launches Pear Runtime, an open-source peer-to-peer app development platform](https://sdtimes.com/open-source/holepunch-launches-pear-runtime-an-open-source-peer-to-peer-app-development-platform/)
+26. [Holepunch unveils groundbreaking open-source peer-to-peer app development platform: Pear Runtime](https://pears.com/news/holepunch-unveils-groundbreaking-open-source-peer-to-peer-app-development-platform-pear-runtime/)
+27. [Tether CEO Paolo Ardoino teases potential Pear Phone powered by P2P apps - CryptoSlate](https://cryptoslate.com/tether-ceo-paolo-ardoino-teases-potential-pear-phone-powered-by-p2p-apps/)
+28. [Tether, Holepunch, and Synonym Launch Pear Credit, a P2P Credit System](https://tether.io/news/tether-holepunch-and-synonym-launch-pear-credit-a-p2p-credit-system/)
+29. [Holepunch Unveils P2P Platform "Pear Runtime" | Hacker News](https://news.ycombinator.com/item?id=39373960)
+30. [Autobase | Pears.com - Pear by Holepunch - Pear Runtime](https://docs.pears.com/building-blocks/autobase)
+31. [Holepunch](https://holepunch.to/)
+32. [Holepunch - GitHub](https://github.com/holepunchto)
+33. [dat-ecosystem](https://dat-ecosystem.org/)
+34. [ipld/docs: All you need to know about IPLD - GitHub](https://github.com/ipld/docs)
+35. [IPLD Schemas](https://ipld.io/docs/schemas/)
+36. [IPLD The Brief Primer](https://ipld.io/docs/intro/primer/)
+37. [IPLD Docs](https://ipld.io/docs/)
+38. [IPLD Schemas: Introduction](https://ipld.io/docs/schemas/intro/)
+39. [Concepts | IPFS Docs](https://docs.ipfs.tech/concepts/)
+40. [TDeFi Blogs - Decentralized Science (DeSci): A Narrative hidden in shadows?](https://tde.fi/founder-resource/blogs/meme/decentralized-science-desci-a-narrative-hidden-in-shadows/)
+41. [DeSci: Transforming Research with Decentralized Science - Bankless](https://www.bankless.com/the-essentials-of-desci)
+42. [Inside DeSci: Sector Overview and 40+ Projects List - DWF Labs](https://www.dwf-labs.com/research/488-decentralised-science-desci-projects-overview)
+43. [Breaking barriers: Decentralized science (DeSci) - Phantom](https://phantom.com/learn/crypto-101/decentralized-science-desci)
+44. [Decentralized Science \[DeSci\], Crypto Concepts: Beginner's Guide - DIA oracles](https://www.diadata.org/crypto-narratives/decentralized-science-desci/)
+45. [A curated list of awesome DeSci resources, projects, events, articles and more - GitHub](https://github.com/DeSciWorldDAO/awesome-desci)
+46. [What is decentralized science (DeSci)? - The Block](https://www.theblock.co/learn/342505/what-is-decentralized-science-desci)
+47. [Decentralized Science Development Company | DeSci Development Solutions](https://www.hivelance.com/desci-development-company)
+48. [Decentralized Science (DeSci) - The Next Big Blockchain Development? - Phemex](https://phemex.com/academy/decentralized-science-desci-the-next-big-blockchain-development)
+49. [What Is Decentralized Science (DeSci)? - OSL](https://osl.com/academy/article/what-is-decentralized-science-desci)
+50. [How Decentralized Science (DeSci) Improves Research - Ulam Labs](https://www.ulam.io/blog/how-decentralized-science-is-revolutionizing-research)
+51. [Top 5 Projects in Decentralized Science DeSci - DroomDroom](https://droomdroom.com/top-projects-in-decentralized-science-desci/)
+52. [What Is Decentralized Science (DeSci)? - Hacken.io](https://hacken.io/discover/decentralized-science-desci/)
+53. [Sudan'S Cultural Diversity: Exploring Ethnic Groups And Indigenous Languages](https://afrodiscovery.com/country/sudan/sudan-tribes-languages/sudans-cultural-diversity-exploring-ethnic-groups-and-indigenous-languages/)
+54. [Oral traditions and expressions including language as a vehicle of ...](https://ich.unesco.org/en/oral-traditions-and-expressions-00053)
+55. [Converting donation to transaction: how platform capitalism exploits ...](https://academic.oup.com/ser/article/21/4/1897/7058165)
+56. [Using Oral History to Redress Moral Degeneration Amongst the Youth in Higher Education Institutions of South Africa | E-Journal of Religious and Theological Studies](https://www.ajol.info/index.php/erats/article/view/288458)
+57. [The Power of Digital Inclusion - WCET - WICHE](https://wcet.wiche.edu/frontiers/2018/02/15/the-power-of-digital-inclusion/)
+58. [Principles for Digital Development](https://digitalprinciples.org/)
+59. [Principles for Digital Development - INEE](https://inee.org/resources/principles-digital-development)
+60. [The Principles for Digital Development have been refreshed for the next decade. Here's how.](https://digitalprinciples.org/2024/03/29/the-principles-for-digital-development-have-been-refreshed-for-the-next-decade-heres-how/)
+61. [Digital work platform: Understanding platforms, workers, clients in a ...](https://pmc.ncbi.nlm.nih.gov/articles/PMC9845709/)
+62. [Platform labour in search of value - International Labour Organization](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_emp/@emp_ent/@coop/documents/publication/wcms_809250.pdf)
+63. [Who Watches the Watchmen? A Review of Subjective Approaches for Sybil-Resistance in Proof of Personhood Protocols - Frontiers](https://www.frontiersin.org/articles/10.3389/fbloc.2020.590171/full)
+64. [The Paradox of Pseudonymity - Identity Management Institute®](https://identitymanagementinstitute.org/the-paradox-of-pseudonymity/)
+65. [DAO Governance Models 2024: Ultimate Guide to Token vs. Reputation Systems](https://www.rapidinnovation.io/post/dao-governance-models-explained-token-based-vs-reputation-based-systems)
+66. [Decentralized reputation - Cryptology ePrint Archive](https://eprint.iacr.org/2020/761.pdf)
+67. [Reputation Systems for Anonymous Networks - CS@Columbia](https://www.cs.columbia.edu/~smb/papers/anonrep.pdf)
+68. [Building Trust and Reputation Systems in Web3 - BlockApps Inc.](https://blockapps.net/blog/building-trust-and-reputation-systems-in-web3/)
+69. [How Onchain Identity is Shaping Web3 Professional Reputations - Joba Network](https://www.joba.network/blog/how-onchain-identity-is-shaping-web3-professional-reputations)
+70. [Exploring Decentralised Reputation and Its Use Cases - cheqd](https://cheqd.io/blog/exploring-decentralised-reputation-and-its-use-cases/)
+71. [Reputation by Design: Using Web 3.0 to Build Trust Online](https://www.internetreputation.com/reputation-by-design-using-web-3-0-to-build-trust-online/)
+72. [Types Of Reputation Systems - FasterCapital](https://fastercapital.com/topics/types-of-reputation-systems.html)
+73. [Top Reputation System for Trust in Smart Contracts - Nadcab Labs](https://www.nadcab.com/blog/smart-contract-reputation-systems)
+74. [A Novel Framework for Reputation-Based Systems - a16z crypto](https://a16zcrypto.com/posts/article/reputation-based-systems/)
+75. [research/reputation/docs/initialization.md at master · witnet/research - GitHub](https://github.com/witnet/research/blob/master/reputation/docs/initialization.md)
+76. [Survey on social reputation mechanisms: Someone told me I can trust you - ResearchGate](https://www.researchgate.net/publication/366246884_Survey_on_social_reputation_mechanisms_Someone_told_me_I_can_trust_you)
+77. [(PDF) A Reputation-based Trust Management System for P2P Networks - ResearchGate](https://www.researchgate.net/publication/220284409_A_Reputation-based_Trust_Management_System_for_P2P_Networks)
+78. [A peer to peer reputation system based on a rolling blockchain - temtum](https://temtum.com/static/478635b7b627918784a08b3459c40670/rep-on-the-roll-a-peer-to-peer-reputation-system-based-on-a-rolling-blockchain.pdf)
+79. [\[2409.09329\] Reputation-Driven Peer-to-Peer Live Streaming Architecture for Preventing Free-Riding - arXiv](https://arxiv.org/abs/2409.09329)
+80. [Design Considerations for Decentralized Reputation Systems - GitHub](https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/final-documents/reputation-design.md)
+81. [DAO Governance: Effectively Create And Manage Governance Tokens | Bitbond](https://www.bitbond.com/resources/dao-governance-effectively-create-and-manage-governance-tokens/)
+82. [What is Reputation-Based Voting in DAOs - Colony Blog](https://blog.colony.io/what-is-reputation-based-governance/)
+83. [Platform Cooperativism: Challenging the Corporate Sharing Economy - Rosa Luxemburg Stiftung](https://rosalux.nyc/wp-content/uploads/2020/11/RLS-NYC_platformcoop.pdf)
+84. [Knowledge Graphs with LLMs: Optimizing Decision-Making - Addepto](https://addepto.com/blog/leveraging-knowledge-graphs-with-llms-a-business-guide-to-enhanced-decision-making/)
+85. [How knowledge graphs form a system of truth underpinning agentic apps - Hypermode](https://hypermode.com/blog/how-knowledge-graphs-underpin-ai-agent-applications)
+86. [Knowledge Graph Tools: The Ultimate Guide - PuppyGraph](https://www.puppygraph.com/blog/knowledge-graph-tools)
+87. [How to Build a Knowledge Graph for Beginners\[+Step & Tips\] - PageOn.ai](https://www.pageon.ai/blog/how-to-build-a-knowledge-graph)
+88. [What is a Knowledge Graph in SEO? | Schema App Solutions](https://www.schemaapp.com/schema-markup/what-is-a-content-knowledge-graph/)
+89. [AGENTiGraph: An Interactive Knowledge Graph Platform for LLM-based Chatbots Utilizing Private Data - arXiv](https://arxiv.org/html/2410.11531v1)
+90. [Knowledge graphs in machine learning: Significance, applications and development](https://www.leewayhertz.com/knowledge-graph-in-machine-learning/)
+91. [Merging LLMs and Knowledge Graphs - Datavid](https://datavid.com/blog/merging-large-language-models-and-knowledge-graphs-integration)
+92. [Knowledge graph visualization: A comprehensive guide \[with examples\] - Datavid](https://datavid.com/blog/knowledge-graph-visualization)
+93. [Visualizing a Knowledge Graph? - Qlik Dork](https://qlikdork.com/2025/01/visualizing-a-knowledge-graph/)
+94. [Knowledge graph embedding by reflection transformation - ResearchGate](https://www.researchgate.net/publication/356888173_Knowledge_graph_embedding_by_reflection_transformation)
+95. [Knowledge Graphs in Practice: Characterizing their Users, Challenges, and Visualization Opportunities - arXiv](https://arxiv.org/html/2304.01311v4)
+96. [Digital media innovations through participatory action research - DiVA portal](https://www.diva-portal.org/smash/get/diva2:1680681/FULLTEXT01.pdf)
+97. [What is Participatory Action Research ? — Indeemo](https://indeemo.com/blog/what-is-participatory-action-research)
+98. [A Guide to Documenting Action Research in Education - Teachers Institute](https://teachers.institute/learning-teaching/documenting-action-research-education/)
+99. [Participatory Action Research: A Toolkit - University of Reading](https://research.reading.ac.uk/community-based-research/wp-content/uploads/sites/114/2023/06/PAR-Toolkit-v10.pdf)
+100. [Participatory Action Research Approach to Planning, Reflection, and Documentation - Animating Democracy](https://animatingdemocracy.org/sites/default/files/documents/resources/tools/participatory_action_research.pdf)
+101. [Conducting Virtual Youth-Led Participatory Action Research (YPAR) During the COVID-19 Pandemic](https://jprm.scholasticahq.com/article/37029-conducting-virtual-youth-led-participatory-action-research-ypar-during-the-covid-19-pandemic)
+102. [Co-Designing a Programme Level Approach to Information and Digital Literacy: Initial Reflections from Our Participatory Action Research Project - Purdue e-Pubs](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2252&context=iatul)
+103. [Digital tools for real-time data collection in education - Brookings Institution](https://www.brookings.edu/articles/digital-tools-for-real-time-data-collection-in-education/)
+104. [Reflections on Implementing Participatory Action Research in Engineering - ResearchGate](https://www.researchgate.net/publication/373202042_Reflections_on_Implementing_Participatory_Action_Research_in_Engineering)
+105. [What is participatory design? | IxDF](https://www.interaction-design.org/literature/topics/participatory-design)
+106. [What is Action Research? — updated 2025 | IxDF - The Interaction Design Foundation](https://www.interaction-design.org/literature/topics/action-research)
+107. [Participatory Reflection and Action - Participedia](https://participedia.net/method/participatory-reflection-and-action)
+108. [Navigating participatory research: a visual guide - Durham University](https://www.durham.ac.uk/media/durham-university/departments-/sociology/Navigating-Participatory-Research_A-Visual-Guide.pdf)
+109. [More than a User: Implementing Participatory Research Methods in UX](https://info.keylimeinteractive.com/more-than-a-user-implementing-participatory-research-methods-in-ux)
+110. [Participatory Design in Practice | UX Magazine](https://uxmag.com/articles/participatory-design-in-practice)
+111. [Using a Participatory Action Research Approach to Design a Lecture Podcasting System](https://www.researchgate.net/publication/262357201_Using_a_Participatory_Action_Research_Approach_to_Design_a_Lecture_Podcasting_System)
+112. [Peer-to-peer - Wikipedia](https://en.wikipedia.org/wiki/Peer-to-peer)
+113. [Peer-to-Peer Networks: Basics, Benefits, and Applications Explained | Hivenet](https://www.hivenet.com/post/peer-to-peer-networks-understanding-the-basics-and-benefits)
+114. [offline-first/README.md at master - GitHub](https://github.com/pazguille/offline-first/blob/master/README.md)
+115. [HOLEPUNCH UNVEILS GROUNDBREAKING OPEN-SOURCE PEER-TO-PEER APP DEVELOPMENT PLATFORM: PEAR RUNTIME - PR Newswire](https://www.prnewswire.com/news-releases/holepunch-unveils-groundbreaking-open-source-peer-to-peer-app-development-platform-pear-runtime-302061356.html)
+116. [Peer to Peer Technology with Pear and Keet by Holepunch | David Mark Clements | Beyond Coding \#171 - YouTube](https://www.youtube.com/watch?v=ww-fm0YZ9Dw)
+117. [Workshop: Build Peer-to-Peer Applications with Pear Runtime - YouTube](https://www.youtube.com/watch?v=8BsMDDHku64)
+118. [pear-docs/apps/keet.md at main - GitHub](https://github.com/holepunchto/pear-docs/blob/main/apps/keet.md)
+119. [Pears | Unleash the Power of P2P](https://pears.com/)
+120. [holepunchto/pear-docs - GitHub](https://github.com/holepunchto/pear-docs)
+121. [Corestore | Pears.com](https://docs.pears.com/helpers/corestore)
+122. [Corestore | Hypercore Protocol](https://hypercore-protocol.github.io/new-website/guides/modules/corestore/)
+123. [Anonymous and Distributed Authentication for Peer to Peer Networks - GitHub](https://cepdnaclk.github.io/e15-4yp-anonymous-authentication/)
+124. [Robust Accounting in Decentralized P2P Storage Systems - University of Minnesota](https://www-users.cse.umn.edu/~hoppernj/icdcs_p2p_storage_accounting.pdf)
+125. [holepunchto/pear: combined Peer-to-Peer (P2P) Runtime, Development & Deployment tool](https://github.com/holepunchto/pear)
+126. [A Survey of Peer-to-Peer Security Issues - Rice University](https://www.cs.rice.edu/~dwallach/pub/tokyo-p2p2002.pdf)
+127. [Enhancing Data Authenticity and Integrity in P2P Systems - GMU CS Department](https://cs.gmu.edu/~sqchen/publications/ic-magazine-2005.pdf)
+128. [Peer-to-Peer File Sharing Explained: Benefits, Risks & Innovations | Hivenet](https://www.hivenet.com/post/top-peer-to-peer-sharing-solutions-for-effortless-file-transfer)
+129. [Hypercore | Pears.com - Pear by Holepunch - Pear Runtime](https://docs.pears.com/building-blocks/hypercore)
+130. [Making a Pear Desktop Application | Pears.com](https://docs.pears.com/guides/making-a-pear-desktop-app)
+131. [Pear Runtime: Zero-Infrastructure, P2P High-Scale Applications - GitNation](https://gitnation.com/contents/pear-runtime-zero-infrastructure-high-scale-applications)
+132. [Hyperswarm | Pears.com](https://docs.pears.com/building-blocks/hyperswarm)
+133. [pear-docs/guide/getting-started.md at main - GitHub](https://github.com/holepunchto/pear-docs/blob/main/guide/getting-started.md)
+134. [holepunch.to website terms](https://holepunch.to/terms)
+135. [Plugin - HolePunch Pear Tools](https://holepunch.pointsville.com/pear-tools/plugin)
+136. [hypercore - NPM](https://www.npmjs.com/hypercore)
+137. [Hypercore Protocol](https://hypercore-protocol.github.io/new-website/guides/modules/hypercore/)
+138. [Hypercore Protocol](https://hypercore-protocol.github.io/new-website/)
+139. [Data Architecture | community - GitHub Pages](https://tradle.github.io/community/docs/FAQ.html)
+140. [Beginner's Guide to Event Sourcing - Kurrent](https://www.kurrent.io/event-sourcing)
+141. [why-hypercore/FAQ.md at master - GitHub](https://github.com/tradle/why-hypercore/blob/master/FAQ.md)
+142. [Represent hypercore in IPLD · Issue \#15 · ipfs-shipyard/integration ...](https://github.com/ipfs/integration-mini-projects/issues/15)
+143. [Manage multiple Hypercores | Pears.com](https://docs.pears.com/how-tos/work-with-many-hypercores-using-corestore)
+144. [hyperbee - NPM](https://www.npmjs.com/package/hyperbee)
+145. [Hyperbee | Pears.com - Pear by Holepunch - Pear Runtime](https://docs.pears.com/building-blocks/hyperbee)
+146. [Hyperbee | Hypercore Protocol](https://hypercore-protocol.github.io/new-website/guides/modules/hyperbee/)
+147. [Projects in Awesome Lists by holepunchto](https://awesome.ecosyste.ms/projects?owner=holepunchto)
+148. [gasolin/awesome-pears - GitHub](https://github.com/gasolin/awesome-pears)
+149. [Autobase lets you write concise multiwriter data structures with Hypercore - GitHub](https://github.com/holepunchto/autobase)
+150. [www.vldb.org](https://www.vldb.org/pvldb/vol16/p856-power.pdf)
+151. [CRDTs go brrr - Seph](https://josephg.com/blog/crdts-go-brrr/)
+152. [What do you recommend for conflict-free replicated data type (CRDT) support in Rust?](https://www.reddit.com/r/rust/comments/1064f9s/what_do_you_recommend_for_conflictfree_replicated/)
+153. [\`hypercore\` and \`Yjs\` : how to make them work together, without ...](https://www.google.com/search?q=%5Bhttps://github.com/hypercore-protocol/hypercore/issues/296%5D\(https://github.com/hypercore-protocol/hypercore/issues/296\))
+154. [You don't need a CRDT to build a collaborative experience - Hacker News](https://news.ycombinator.com/item?id=38289327)
+155. [Local-First Software](https://localfirstweb.dev/)
+156. [Re: \[DISCUSSION\] Contributing policy for WORG - GNU mailing lists](https://lists.gnu.org/r/emacs-orgmode/2025-01/msg00255.html)
+157. [Quantifying the Performance of Conflict-free Replicated Data Types in InterPlanetary File System - OpenReview](https://openreview.net/pdf?id=XFYg5qxZS6)
+158. [The Blocklace: A Universal, Byzantine Fault-Tolerant, Conflict-free Replicated Data Type](https://arxiv.org/html/2402.08068v3)
+159. [A comprehensive study of Convergent and Commutative Replicated Data Types | Request PDF - ResearchGate](https://www.researchgate.net/publication/50949847_A_comprehensive_study_of_Convergent_and_Commutative_Replicated_Data_Types)
+160. [\[PDF\] Merkle-CRDTs: Merkle-DAGs meet CRDTs - Semantic Scholar](https://www.semanticscholar.org/paper/Merkle-CRDTs%3A-Merkle-DAGs-meet-CRDTs-Sanju%C3%A1n-Poyhtari/d3ff8801a118e13f2a7485a6d33529b170e75d91)
+161. [Approaches to Conflict-free Replicated Data Types | Request PDF - ResearchGate](https://www.researchgate.net/publication/383882795_Approaches_to_Conflict-free_Replicated_Data_Types)
+162. [\[inria-00555588, v1\] A comprehensive study of Convergent and Commutative Replicated Data Types](https://dsf.berkeley.edu/cs286/papers/crdt-tr2011.pdf)
+163. [IPFS Keyword Retrieval System Based on Merkle DAG Inverted Index](https://wepub.org/index.php/IJCSIT/article/view/1418)
+164. [Reversing CRDTs Through Compensating Operations by Yunhao Mao A thesis submitted in conformity with the requirements for the deg - TSpace](https://tspace.library.utoronto.ca/bitstream/1807/108812/4/Mao_Yunhao_202111_MAS_thesis.pdf)
+165. [Merkle-CRDTs (DRAFT) - Protocol Labs Research](https://research.protocol.ai/blog/2019/a-new-lab-for-resilient-networks-research/PL-TechRep-merkleCRDT-v0.1-Dec30.pdf)
+166. [research.protocol.ai](https://research.protocol.ai/publications/merkle-crdts-merkle-dags-meet-crdts/psaras2020.pdf)
+167. [Nodes and Kinds - IPLD](https://ipld.io/design/libraries/nodes-and-kinds/)
+168. [IPLD Data Model Kinds](https://ipld.io/docs/data-model/kinds/)
+169. [IPLD Schema Implementation: parser and utilities - GitHub](https://github.com/ipld/js-ipld-schema)
+170. [IPLD Schemas: Migrations](https://ipld.io/docs/schemas/using/migrations/)
+171. [IPLD Schemas: Authoring Guide](https://ipld.io/docs/schemas/using/authoring-guide/)
+172. [IPLD Schemas: Type Kinds](https://ipld.io/docs/schemas/features/typekinds/)
+173. [IPLD Schema Specs](https://ipld.io/specs/schemas/)
+174. [IPLD Schemas: Key Features](https://ipld.io/docs/schemas/features/)
+175. [Schema Evolution - CelerData](https://celerdata.com/glossary/schema-evolution)
+176. [cyberphone/CBOR.js: CBOR JavaScript API and Reference Implementation - GitHub](https://github.com/cyberphone/CBOR.js/)
+177. [@ipld/dag-pb - npm](https://www.npmjs.com/package/@ipld/dag-pb)
+178. [cbor2 - NPM](https://www.npmjs.com/package/cbor2)
+179. [IPLD Intro / Jim Pick - Observable](https://observablehq.com/@jimpick/ipld-intro)
+180. [serde\_ipld\_dagcbor - Rust - Docs.rs](https://docs.rs/serde_ipld_dagcbor)
+181. [cbor-js - NPM](https://www.npmjs.com/package/cbor-js)
+182. [holepunchto/hyperdht: The DHT powering Hyperswarm - GitHub](https://github.com/holepunchto/hyperdht)
+183. [Hyperswarm | Hypercore Protocol](https://hypercore-protocol.github.io/new-website/guides/modules/hyperswarm/)
+184. [RangerMauve/hyper-sdk: Make your own hyper apps\! - GitHub](https://github.com/RangerMauve/hyper-sdk)
+185. [Is it complicated to build P2P Apps? - YouTube](https://www.youtube.com/watch?v=3rd4W0mPzoI)
+186. [Pear Apps - HolePunch Pear Tools](https://holepunch.pointsville.com/pear-tools/pear-apps)
+187. [Keet | Pears.com](https://docs.pears.com/apps/keet)
+188. [Citrix Workspace app 2304 for Mac](https://docs.citrix.com/en-us/citrix-workspace-app-for-mac/downloads/citrix-workspace-app-2304-for-mac.pdf)
+189. [Hunters International Collaborates with Hive Ransomware to Target Windows, Linux, and ESXi Systems](https://www.varutra.com/ctp/threatpost/postDetails/Hunters-International-Collaborates-with-Hive-Ransomware-to-Target-Windows,-Linux,-and-ESXi-Systems/)
+190. [Sybil attack - Wikipedia](https://en.wikipedia.org/wiki/Sybil_attack)
+191. [What is Sybil Resistance in Blockchain? Understanding Sybil Attacks - Cyfrin](https://www.cyfrin.io/blog/understanding-sybil-attacks-in-blockchain-and-smart-contracts)
+192. [Webs of Trust: Choosing Who to Trust on the Internet](https://www.nortonlifelock.com/content/dam/nortonlifelock/pdfs/research-papers/2020-research-papers/webs-of-trust-choosing-who-to-trust-on-the-internet.pdf)
+193. [Web3 recommendations: balancing trust and relevance \#6942 - GitHub](https://github.com/Tribler/tribler/issues/6942)
+194. [arxiv.org](https://arxiv.org/pdf/1312.6349)
+195. [(PDF) Preventing active re-identification attacks on social graphs via sybil subgraph obfuscation - ResearchGate](https://www.researchgate.net/publication/358891583_Preventing_active_re-identification_attacks_on_social_graphs_via_sybil_subgraph_obfuscation)
+196. [SybilLimit: A Near-Optimal Social Network Defense against Sybil Attack - ResearchGate](https://www.researchgate.net/publication/4339925_SybilLimit_A_Near-Optimal_Social_Network_Defense_against_Sybil_Attack)
+197. [SybilInfer: Detecting Sybil Nodes using Social Networks - Princeton University](https://www.princeton.edu/~pmittal/publications/sybilinfer-ndss09.pdf)
+198. [Implementation of a Browser-based P2P Network using WebRTC - the Internet Technologies Group](https://inet.haw-hamburg.de/teaching/ws-2013-14/master-project/Prj1-report-werner-vogt.pdf)
+199. [SybilGuard: Defending Against Sybil Attacks via Social Networks - Carnegie Mellon University](https://www.math.cmu.edu/~adf/research/SybilGuard.pdf)
+200. [SybilPSIoT: Preventing Sybil attacks in signed social internet of things based on web of trust and smart contract - ResearchGate](https://www.researchgate.net/publication/377851013_SybilPSIoT_Preventing_Sybil_attacks_in_signed_social_internet_of_things_based_on_web_of_trust_and_smart_contract)
+201. [Who Watches the Watchmen? A Review of Subjective Approaches for Sybil-Resistance in Proof of Personhood Protocols - ResearchGate](https://www.researchgate.net/publication/346849259_Who_Watches_the_Watchmen_A_Review_of_Subjective_Approaches_for_Sybil-Resistance_in_Proof_of_Personhood_Protocols)
+202. [What is a Sybil Attack | Examples & Prevention - Imperva](https://www.imperva.com/learn/application-security/sybil-attack/)
+203. [A Study of WebRTC Security](https://webrtc-security.github.io/)
+204. [Building Trust in Decentralized Peer-to-Peer Electronic Communities - Georgia Tech](https://sites.cc.gatech.edu/projects/disl/PeerTrust/pub/xiong02building.pdf)
+205. [Addressing False Identity Attacks in Action-based P2P Social Networks with an Open Census - Florida Tech](https://cs.fit.edu/~msilaghi/pages/papers/IAT2013_WOSWI.pdf)
+206. [Survey on social reputation mechanisms: Someone told me I can trust you - arXiv](https://arxiv.org/pdf/2212.06436)
+207. [X-Vine: Secure and Pseudonymous Routing Using Social Networks - Princeton University](https://www.princeton.edu/~pmittal/publications/xvine-ndss12.pdf)
+208. [The Impact Web of Trust Could Change Everything - Gitcoin Governance](https://gov.gitcoin.co/t/the-impact-web-of-trust-could-change-everything/17635)
+209. [Blockchain-based Sybil Attack Mitigation: A Case Study of the I2P Network - os3.nl](https://www.os3.nl/_media/2017-2018/courses/rp2/p97_report.pdf)
+210. [(PDF) The Sybil Attack (2002) | John R. Douceur | 5230 Citations - SciSpace](https://scispace.com/papers/the-sybil-attack-500qyzt8pb)
+211. [Web of trust - Wikipedia](https://en.wikipedia.org/wiki/Web_of_trust)
+212. [Proof of personhood - Wikipedia](https://en.wikipedia.org/wiki/Proof_of_personhood)
+213. [Proof of Personhood | Ledger](https://www.ledger.com/academy/glossary/proof-of-personhood)
+214. [What is Proof of Personhood (PoP)? - Civic Pass](https://www.civic.com/blog/what-is-proof-of-personhood-pop)
+215. [Comparative Analysis of Different Proof of Personhood (PoP) Protocols - Humanode](https://blog.humanode.io/comparative-analysis-of-different-proof-of-personhood-pop-protocols/)
+216. [Security of Proof-of-Personhood: Idena - EPFL](https://www.epfl.ch/labs/dedis/wp-content/uploads/2021/07/report-2021-1-jordi-idena_report.pdf)
+217. [Personhood Credentials: Human-Centered Design Recommendation Balancing Security, Usability, and Trust - arXiv](https://arxiv.org/html/2502.16375v1)
+218. [Log Out. A Glossary of Technological Resistance and Decentralization - UvA-DARE (Digital Academic Repository)](https://pure.uva.nl/ws/files/132859388/Digital_version_Logout.pdf)
+219. [Why Proof of Personhood Matters for Fintech and Web3 Adoption - World Business Outlook](https://worldbusinessoutlook.com/why-proof-of-personhood-matters-for-fintech-and-web3-adoption/)
+220. [King's Research Portal](https://kclpure.kcl.ac.uk/portal/files/256740842/sybil_attack_vulnerability_trilemma_v3_4.pdf)
+221. [Rechained: Sybil-Resistant Distributed Identities for the Internet of Things and Mobile Ad Hoc Networks - PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8125832/)
+222. [Securing P2P systems from Sybil attacks through adaptive identity management.](https://dl.ifip.org/db/conf/cnsm/cnsm2011/CordeiroSMBG11.pdf)
+223. [Hypercore Access Control - GitHub](https://gist.github.com/RangerMauve/334fa78b7ffe1ebeae8b47313aa3d932)
+224. [ucan-wg/awake: AWAKE Protocol Specification - GitHub](https://github.com/ucan-wg/awake)
+225. [ucan-wg/spec: User Controlled Authorization Network ... - GitHub](https://github.com/ucan-wg/spec)
+226. [specs/w3-ucan.md at main · storacha/specs · GitHub](https://github.com/storacha/specs/blob/main/w3-ucan.md)
+227. [Intro to UCAN - HackMD](https://hackmd.io/@U0QmLf-zRyyE600Km7fKIw/rJvt-j2Xo)
+228. [UCANs and Storacha](https://docs.storacha.network/concepts/ucans-and-storacha/)
+229. [ucan-storage - GitHub Pages](https://nftstorage.github.io/ucan.storage/)
+230. [Role Based Access Control (RBAC) and Systems Thinking - Idenhaus Consulting](https://idenhaus.com/role-based-access-control-rbac-systems-thinking/)
+231. [The fundamentals of Role-Based Access Control (RBAC) - BetterCloud](https://www.bettercloud.com/monitor/the-fundamentals-of-role-based-access-control/)
+232. [What is Role-Based Access Control (RBAC)? - CBT Nuggets](https://www.cbtnuggets.com/blog/technology/security/what-is-role-based-access-control-rbac)
+233. [What is Role-Based Access Control (RBAC)? - DigitalOcean](https://www.digitalocean.com/resources/articles/rbac)
+234. [Peersky Browser - UCSC OSPO](https://ucsc-ospo.github.io/project/osre25/ucsc/peersky/)
+235. [Pear Box - HolePunch Pear Tools](https://holepunch.pointsville.com/web-apps/pear-box)
+236. [Security - hypercore.ai](https://www.hypercore.ai/security)
+237. [A Decentralized Provenance Network for Linked Open Data - CEUR-WS.org](https://ceur-ws.org/Vol-2548/paper-10.pdf)
+238. [Decentralized Infrastructure for Versioned Linked Open Data and Scalable Curation Thereof - Damien Graux](https://dgraux.github.io/supervision/Mahmoodi_Msc_2018.pdf)
+239. [Media Types - Internet Assigned Numbers Authority](https://www.iana.org/assignments/media-types)
+240. [Decentralized E-Voting System Using Blockchain Technology - International Journal of Scientific Research and Engineering Trends](https://ijsret.com/wp-content/uploads/2024/09/IJSRET_V10_issue5_457.pdf)
+241. [Decentralizing Democracy: Secure and Transparent E-Voting Systems with Blockchain Technology in the Context of Palestine - MDPI](https://www.mdpi.com/1999-5903/16/11/388)
+242. [Metadata about IPLD links, particularly link importance - Protocol - IPFS Forums](https://discuss.ipfs.tech/t/metadata-about-ipld-links-particularly-link-importance/13884)
+243. [How to Add Social Media Profiles to Your WordPress Site's Schema - AIOSEO](https://aioseo.com/add-social-media-profiles-to-your-wordpress-sites-schema/)
+244. [The Event Sourcing Pattern? - Exatosoftware](https://exatosoftware.com/the-event-sourcing-pattern/)
+245. [Event Sourcing pattern - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+246. [Schema Evolution for Event Sourced Actors - Akka Documentation](https://doc.akka.io/libraries/akka-core/current/persistence-schema-evolution.html)
+247. [Understanding Event Sourcing: A Detailed Guide - DEV Community](https://dev.to/alisamir/understanding-event-sourcing-a-detailed-guide-4cjp)
+248. [The Ultimate Guide to Event-Driven Architecture Patterns - Solace](https://solace.com/event-driven-architecture-patterns/)
+249. [Comprehensive Guide to Event Sourcing Database Architecture - RisingWave](https://risingwave.com/blog/comprehensive-guide-to-event-sourcing-database-architecture/)
+250. [Simple patterns for events schema versioning - Event-Driven.io](https://event-driven.io/en/simple_events_versioning_patterns/)
+251. [A Multi-Layered Security Analysis of Blockchain Systems: From Attack Vectors to Defense and System Hardening - arXiv](https://arxiv.org/html/2504.09181v1)
+252. [\[1911.01231\] Raft Consensus Algorithm: an Effective Substitute for Paxos in High Throughput P2P-based Systems - ar5iv](https://ar5iv.labs.arxiv.org/html/1911.01231)
+253. [Issues for Robust Consensus Building in P2P Networks - ResearchGate](https://www.researchgate.net/publication/226303588_Issues_for_Robust_Consensus_Building_in_P2P_Networks)
+254. [Raft | .NEXT - NET](https://dotnet.github.io/dotNext/features/cluster/raft.html)
+255. [Peer-to-Peer Permissionless Consensus via Authoring Reputation](http://ceu-lang.org/chico/papers/fc_xxx22_pre.pdf)
+256. [Research on improvement of DPoS consensus mechanism in collaborative governance of network public opinion - PMC - PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC9059699/)
     
 257.  Distributed Deployment - Qdrant, [https://qdrant.tech/documentation/guides/distributed\_deployment/](https://qdrant.tech/documentation/guides/distributed_deployment/)
     
