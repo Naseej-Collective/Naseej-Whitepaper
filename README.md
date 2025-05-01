@@ -496,56 +496,56 @@ The development of Naseej is an ongoing process, guided by its core philosophica
 
 Rapidly build the essential Anytype structure, onboard a small core team, validate basic functionality, and establish good data practices compatible with future verifiability goals.
 
-[]   **Core Structure Setup (High Priority):** Use existing solutions (e.g. AnyType)
+* [x] **Core Structure Setup (High Priority):** Use existing solutions (e.g. AnyType)
 
-[]   **Foundational Document Integration:** Add latest versions of core documents
+* [ ] **Foundational Document Integration:** Add latest versions of core documents
 
-[]   **Minimal Onboarding & Core Team:** Finalize simple onboarding checklist (reading core docs, Anytype invite, emphasis on data quality/linking/attribution).
+* [ ] **Minimal Onboarding & Core Team:** Finalize simple onboarding checklist (reading core docs, Anytype invite, emphasis on data quality/linking/attribution).
 
-[]   **Initial Content Seeding & Testing (MVP Validation):** Core team adds a small number of diverse SKU examples.
+* [ ] **Initial Content Seeding & Testing (MVP Validation):** Core team adds a small number of diverse SKU examples.
 
-[]   **Focus:** Basic Anytype functionality (Object creation, linking, Sets) AND Foundational Practice (Is source/contributor info captured consistently? Are initial links meaningful? Does the structure support basic provenance tracking?).
+  * **Focus:** Basic Anytype functionality (Object creation, linking, Sets) AND Foundational Practice (Is source/contributor info captured consistently? Are initial links meaningful? Does the structure support basic provenance tracking?).
 
-[]   **Task:** Core team begins documenting any immediate limitations encountered with Anytype regarding collaboration, linking complexity, or data structure needs.
+  * **Task:** Core team begins documenting any immediate limitations encountered with Anytype regarding collaboration, linking complexity, or data structure needs.
 
-[]   **Basic Communication Channel:** Set up simplest viable channel for core team communication/feedback.
+* [ ] **Basic Communication Channel:** Set up simplest viable channel for core team communication/feedback.
 
     
 ### Short-Term Goals (Next 6-12 Months):    
 
-[]   **Core Implementation:** Develop the basic platform functionalities: creating, storing, and linking core knowledge artifacts (SKUs) and PAR cycle elements (actions, reflections) using Hyperbee and Autobase. Implement basic IPLD schema validation within the apply function.
+* [ ]   **Core Implementation:** Develop the basic platform functionalities: creating, storing, and linking core knowledge artifacts (SKUs) and PAR cycle elements (actions, reflections) using Hyperbee and Autobase. Implement basic IPLD schema validation within the apply function.
     
-[]   **Basic Reputation & Identity:** Implement the foundational cryptographic identity system based on Hypercore keys. Begin development of the non-tokenized reputation tracking mechanism, focusing initially on capturing contribution types.
+* [ ]   **Basic Reputation & Identity:** Implement the foundational cryptographic identity system based on Hypercore keys. Begin development of the non-tokenized reputation tracking mechanism, focusing initially on capturing contribution types.
     
-[]   **P2P Networking:** Ensure reliable peer discovery and data replication using Hyperswarm/HyperDHT.
+* [ ]   **P2P Networking:** Ensure reliable peer discovery and data replication using Hyperswarm/HyperDHT.
     
-[]   **Usability Testing & Pilot:** Conduct early usability testing with a small, targeted community. Initiate a pilot project, potentially focusing on a specific use case like cultural archiving within a Sudanese diaspora community or supporting a collaborative research project aligned with PAR principles. Gather feedback on core functionality and user experience.
+* [ ]   **Usability Testing & Pilot:** Conduct early usability testing with a small, targeted community. Initiate a pilot project, potentially focusing on a specific use case like cultural archiving within a Sudanese diaspora community or supporting a collaborative research project aligned with PAR principles. Gather feedback on core functionality and user experience.
     
 
 ### Mid-Term Goals (1-3 Years):
     
 
-[]   **Refined Reputation System:** Fully develop and integrate the non-tokenized reputation system, including mechanisms for peer validation and diverse contribution tracking. Explore lightweight Sybil resistance mechanisms (WoT, PoP-lite).
+* [ ]   **Refined Reputation System:** Fully develop and integrate the non-tokenized reputation system, including mechanisms for peer validation and diverse contribution tracking. Explore lightweight Sybil resistance mechanisms (WoT, PoP-lite).
     
-[]   **Enhanced Synthesis & Visualization:** Implement tools for knowledge graph visualization and exploration to aid discovery and synthesis.84 Develop more advanced search capabilities leveraging the structured data and links.
+* [ ]   **Enhanced Synthesis & Visualization:** Implement tools for knowledge graph visualization and exploration to aid discovery and synthesis.84 Develop more advanced search capabilities leveraging the structured data and links.
     
-[]   **ASoS Implementation:** Develop and test mechanisms for adaptive schema evolution (ASoS), allowing communities to propose and adopt changes to the knowledge structure based on consensus. Refine the governance process for updating the Autobase apply function.
+* [ ]   **ASoS Implementation:** Develop and test mechanisms for adaptive schema evolution (ASoS), allowing communities to propose and adopt changes to the knowledge structure based on consensus. Refine the governance process for updating the Autobase apply function.
     
-[]   **Access Control:** Implement a flexible, decentralized access control system (potentially drawing from UCAN or RBAC principles) integrated with the reputation system.
+* [ ]   **Access Control:** Implement a flexible, decentralized access control system (potentially drawing from UCAN or RBAC principles) integrated with the reputation system.
     
-[]   **Broadened Use Case Pilots:** Expand pilot projects into diverse domains identified (community organizing, education, etc.) to test and refine Naseej's general-purpose applicability.
+* [ ]   **Broadened Use Case Pilots:** Expand pilot projects into diverse domains identified (community organizing, education, etc.) to test and refine Naseej's general-purpose applicability.
     
 
 ### Long-Term Vision:
     
 
-[]   **Global Commons Infrastructure:** Establish Naseej as a robust, widely adopted, open-source infrastructure for diverse communities globally seeking resilient, inclusive, and action-oriented knowledge management.
+* [ ]   **Global Commons Infrastructure:** Establish Naseej as a robust, widely adopted, open-source infrastructure for diverse communities globally seeking resilient, inclusive, and action-oriented knowledge management.
     
-[]   **Interoperability:** Explore integrations with other decentralized tools, protocols (like DeSci platforms where appropriate), and data standards to foster a richer ecosystem.
+* [ ]   **Interoperability:** Explore integrations with other decentralized tools, protocols (like DeSci platforms where appropriate), and data standards to foster a richer ecosystem.
     
-[]   **Community Governance:** Develop mature decentralized governance mechanisms for the Naseej protocol and codebase itself, ensuring its long-term sustainability and alignment with community needs.
+* [ ]   **Community Governance:** Develop mature decentralized governance mechanisms for the Naseej protocol and codebase itself, ensuring its long-term sustainability and alignment with community needs.
     
-[]   **Continued Philosophical Alignment:** Ensure all future development remains deeply rooted in the core principles of Holistic Radical Inclusion, Breaking Silos, PAR, and Contextual Resilience.
+* [ ]   **Continued Philosophical Alignment:** Ensure all future development remains deeply rooted in the core principles of Holistic Radical Inclusion, Breaking Silos, PAR, and Contextual Resilience.
     
 
 The roadmap reflects the ambition of Naseej to move beyond a niche tool towards a foundational layer for collaborative intelligence. It prioritizes building the core P2P infrastructure, integrating the philosophical commitments into the reputation and governance systems, and then expanding capabilities for synthesis and adaptation based on real-world usage and feedback.
