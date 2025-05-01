@@ -181,13 +181,13 @@ Naseej (Arabic for "weaving" or "interlacing") emerges from this context not mer
 
 This endeavor is guided by a set of core philosophical pillars that inform every aspect of its design and implementation:
 
-*   Holistic Radical Inclusion: Moving beyond simple access, Naseej actively values the full spectrum of contributions—knowledge work, care work, technical support, cultural archiving, logistical coordination, artistic expression—necessary for collective action. It recognizes the inherent "multitudes" within each individual, acknowledging their diverse skills, experiences, and ways of knowing.5
+*   **Holistic Radical Inclusion:** Moving beyond simple access, Naseej actively values the full spectrum of contributions—knowledge work, care work, technical support, cultural archiving, logistical coordination, artistic expression—necessary for collective action. It recognizes the inherent "multitudes" within each individual, acknowledging their diverse skills, experiences, and ways of knowing.5
     
-*   Breaking Knowledge Silos: The platform is explicitly designed to facilitate connections and synthesis across disparate knowledge domains, enabling a more integrated understanding of complex issues.8
+*   **Breaking Knowledge Silos:** The platform is explicitly designed to facilitate connections and synthesis across disparate knowledge domains, enabling a more integrated understanding of complex issues.8
     
-*   A Platform for Action (PAR): Naseej is structured around the Participatory Action Research (PAR) cycle, serving as an engine for communities to document actions, reflect on practice, and allow practice to refine theory in a continuous loop.11
+*   **A Platform for Action (PAR):** Naseej is structured around the Participatory Action Research (PAR) cycle, serving as an engine for communities to document actions, reflect on practice, and allow practice to refine theory in a continuous loop.11
     
-*   Contextual Grounding: While globally applicable, Naseej's initial design is deeply informed by the specific challenges and needs observed within the Sudanese context, particularly concerning information access, infrastructure resilience, and the preservation of local knowledge.16
+*   **Contextual Grounding:** While globally applicable, Naseej's initial design is deeply informed by the specific challenges and needs observed within the Sudanese context, particularly concerning information access, infrastructure resilience, and the preservation of local knowledge.16
     
 
 To realize these philosophical commitments, Naseej leverages a foundation of decentralized, peer-to-peer (P2P) technologies, specifically the Pear/Holepunch ecosystem.24 This stack, including technologies like Hypercore, Autobase, and Hyperswarm, provides the necessary resilience, user control, data sovereignty, and offline capabilities crucial for the platform's vision.25 InterPlanetary Linked Data (IPLD) serves as the underlying data model, offering the flexibility required to represent and interconnect diverse forms of knowledge.34
@@ -200,21 +200,21 @@ This whitepaper elaborates on the critical need for a platform like Naseej, delv
 
 The imperative for Naseej stems from observing critical, intertwined failures in contemporary knowledge systems: the pervasive fragmentation of information into silos, the systemic exclusion of diverse forms of knowledge and contribution, and the specific, acute challenges faced in contexts like Sudan, where information access itself is contested terrain.
 
-*   The Pervasiveness of Silos: Knowledge, in its current institutional and digital forms, is often deeply siloed. Academic disciplines develop specialized languages and methodologies that impede cross-pollination. Professional fields create boundaries based on credentials and proprietary information. Community initiatives, even those working on related issues, may lack effective mechanisms for sharing learnings and coordinating efforts. This fragmentation leads to duplicated work, a failure to synthesize insights from different perspectives, and an inability to address complex, multi-faceted problems that transcend traditional boundaries.1 The rise of Decentralized Science (DeSci) aims to combat some of these issues by promoting open access and data sharing.1 However, even DeSci initiatives risk creating new silos if they focus too narrowly on specific types of scientific output or rely on incentive structures that don't capture the full spectrum of knowledge work.3
+*   **The Pervasiveness of Silos:** Knowledge, in its current institutional and digital forms, is often deeply siloed. Academic disciplines develop specialized languages and methodologies that impede cross-pollination. Professional fields create boundaries based on credentials and proprietary information. Community initiatives, even those working on related issues, may lack effective mechanisms for sharing learnings and coordinating efforts. This fragmentation leads to duplicated work, a failure to synthesize insights from different perspectives, and an inability to address complex, multi-faceted problems that transcend traditional boundaries.1 The rise of Decentralized Science (DeSci) aims to combat some of these issues by promoting open access and data sharing.1 However, even DeSci initiatives risk creating new silos if they focus too narrowly on specific types of scientific output or rely on incentive structures that don't capture the full spectrum of knowledge work.3
     
-*   Exclusion in Knowledge Systems: Compounding the problem of fragmentation is the inherent exclusivity of many knowledge systems. Traditional academic and professional structures often privilege knowledge produced by credentialed experts, published in specific formats (e.g., peer-reviewed papers), and expressed in dominant languages. This systematically marginalizes other vital forms of knowing and doing: the deep ecological understanding embedded in indigenous knowledge systems 23, the practical wisdom gained through lived experience, the crucial relational and care work that sustains communities 6, artistic modes of inquiry and expression, and the rich tapestry of oral traditions.23 Centralized digital platforms often exacerbate this exclusion, their algorithms and interfaces prioritizing engagement or monetization over the equitable representation of diverse knowledge.6 This exclusion not only represents a loss of valuable insight but also reinforces existing power imbalances.5
+*   **Exclusion in Knowledge Systems:** Compounding the problem of fragmentation is the inherent exclusivity of many knowledge systems. Traditional academic and professional structures often privilege knowledge produced by credentialed experts, published in specific formats (e.g., peer-reviewed papers), and expressed in dominant languages. This systematically marginalizes other vital forms of knowing and doing: the deep ecological understanding embedded in indigenous knowledge systems 23, the practical wisdom gained through lived experience, the crucial relational and care work that sustains communities 6, artistic modes of inquiry and expression, and the rich tapestry of oral traditions.23 Centralized digital platforms often exacerbate this exclusion, their algorithms and interfaces prioritizing engagement or monetization over the equitable representation of diverse knowledge.6 This exclusion not only represents a loss of valuable insight but also reinforces existing power imbalances.5
     
-*   The Sudanese Context: Specific Challenges: The general problems of fragmentation and exclusion manifest with particular urgency in contexts like contemporary Sudan. The ongoing conflict has created a situation where access to information is not only difficult but actively weaponized:
-    
-
-*   Information Fragmentation & Control: Sudan has a history of internet shutdowns being used as a tool of control by state and non-state actors, particularly during periods of conflict and protest.17 These shutdowns, often targeting specific regions or service providers, create information blackouts designed to obscure atrocities, control narratives, and hinder coordination among civilians and aid organizations.17 The fragmentation of control between warring factions further complicates information access, with different groups potentially controlling infrastructure or restricting service restoration in specific areas.17 This manipulation of the digital sphere severely impacts communication, access to essential services (including mobile money transfers crucial for survival), the delivery of humanitarian aid, and efforts towards accountability.17
-    
-*   Infrastructure Resilience: The conflict has severely damaged ICT infrastructure, leading to unreliable connectivity even when shutdowns are not actively enforced.18 Power outages further limit access.18 This underscores the critical need for communication and knowledge-sharing infrastructure that is inherently resilient, decentralized, resistant to censorship 3, and capable of functioning even with intermittent or localized connectivity (offline-first). The current reliance on expensive satellite services like Starlink highlights the gap in accessible, resilient infrastructure.18
-    
-*   Valuing Local & Indigenous Knowledge: Sudan possesses immense cultural and linguistic diversity, with numerous ethnic groups and indigenous languages preserving unique traditions, knowledge systems, and oral histories.53 This local knowledge – encompassing agricultural practices, traditional medicine, social structures, conflict resolution mechanisms, and cultural heritage – is invaluable, particularly for navigating crises and building sustainable futures. However, this knowledge is often marginalized in formal systems and is highly vulnerable to disruption and loss during conflict and displacement.22 Platforms are needed that can respectfully document, preserve, share, and integrate this knowledge alongside other forms of information.
+*   **The Sudanese Context: Specific Challenges:** The general problems of fragmentation and exclusion manifest with particular urgency in contexts like contemporary Sudan. The ongoing conflict has created a situation where access to information is not only difficult but actively weaponized:
     
 
-*   Limitations of Existing Solutions: Current technological solutions fall short of addressing this complex nexus of challenges. Centralized platforms are inherently vulnerable to the control and censorship witnessed in Sudan.17 Traditional databases lack the flexibility to handle diverse, evolving knowledge types and the resilience needed in unstable environments. While DeSci platforms offer decentralization, their frequent focus on tokenized incentives 2 may not be appropriate or effective for valuing the diverse contributions needed in community knowledge building, and they may not prioritize the specific resilience and offline features required in contexts like Sudan.
+  *   **Information Fragmentation & Control:** Sudan has a history of internet shutdowns being used as a tool of control by state and non-state actors, particularly during periods of conflict and protest.17 These shutdowns, often targeting specific regions or service providers, create information blackouts designed to obscure atrocities, control narratives, and hinder coordination among civilians and aid organizations.17 The fragmentation of control between warring factions further complicates information access, with different groups potentially controlling infrastructure or restricting service restoration in specific areas.17 This manipulation of the digital sphere severely impacts communication, access to essential services (including mobile money transfers crucial for survival), the delivery of humanitarian aid, and efforts towards accountability.17
+    
+  *   **Infrastructure Resilience:** The conflict has severely damaged ICT infrastructure, leading to unreliable connectivity even when shutdowns are not actively enforced.18 Power outages further limit access.18 This underscores the critical need for communication and knowledge-sharing infrastructure that is inherently resilient, decentralized, resistant to censorship 3, and capable of functioning even with intermittent or localized connectivity (offline-first). The current reliance on expensive satellite services like Starlink highlights the gap in accessible, resilient infrastructure.18
+    
+  *   **Valuing Local & Indigenous Knowledge:** Sudan possesses immense cultural and linguistic diversity, with numerous ethnic groups and indigenous languages preserving unique traditions, knowledge systems, and oral histories.53 This local knowledge – encompassing agricultural practices, traditional medicine, social structures, conflict resolution mechanisms, and cultural heritage – is invaluable, particularly for navigating crises and building sustainable futures. However, this knowledge is often marginalized in formal systems and is highly vulnerable to disruption and loss during conflict and displacement.22 Platforms are needed that can respectfully document, preserve, share, and integrate this knowledge alongside other forms of information.
+    
+
+*   **Limitations of Existing Solutions:** Current technological solutions fall short of addressing this complex nexus of challenges. Centralized platforms are inherently vulnerable to the control and censorship witnessed in Sudan.17 Traditional databases lack the flexibility to handle diverse, evolving knowledge types and the resilience needed in unstable environments. While DeSci platforms offer decentralization, their frequent focus on tokenized incentives 2 may not be appropriate or effective for valuing the diverse contributions needed in community knowledge building, and they may not prioritize the specific resilience and offline features required in contexts like Sudan.
     
 
 The specific, urgent needs of the Sudanese context—for resilient, censorship-resistant communication, offline access, and the integration of diverse and local knowledge—serve not merely as a use case for Naseej, but as a fundamental driver of its core philosophy and technical architecture. The platform's emphasis on P2P infrastructure, offline-first capabilities, and Holistic Radical Inclusion is a direct response to these grounded realities. By starting with these needs, Naseej aims to build a more relevant and impactful solution than technologies designed in isolation from such contexts.
@@ -227,19 +227,19 @@ Naseej is more than a technological system; it is an embodiment of a specific ph
 
 At the heart of Naseej lies the principle of Holistic Radical Inclusion. This concept extends beyond merely providing access; it signifies a fundamental commitment to recognizing, valuing, and integrating all forms of contribution essential for the flourishing of a knowledge commons and the effectiveness of collective action.5 Traditional systems often create hierarchies of knowledge and contribution, privileging formal expertise or easily quantifiable outputs.1 Naseej actively works against this by explicitly acknowledging the value of a diverse spectrum of work:
 
-*   Knowledge Work: Research, analysis, data collection, synthesis, writing, documentation.
+*   **Knowledge Work:** Research, analysis, data collection, synthesis, writing, documentation.
     
-*   Care Work & Relational Labor: Community building, moderation, conflict resolution, providing emotional support, fostering trust, maintaining relationships, onboarding newcomers – the often invisible labor that makes collaboration possible and sustainable.6
+*   **Care Work & Relational Labor:** Community building, moderation, conflict resolution, providing emotional support, fostering trust, maintaining relationships, onboarding newcomers – the often invisible labor that makes collaboration possible and sustainable.6
     
-*   Technical Support: Software development, infrastructure maintenance, user support, tool building.
+*   **Technical Support:** Software development, infrastructure maintenance, user support, tool building.
     
-*   Cultural Archiving & Preservation: Documenting oral histories, translating languages, preserving traditional practices, curating cultural artifacts.23
+*   **Cultural Archiving & Preservation:** Documenting oral histories, translating languages, preserving traditional practices, curating cultural artifacts.23
     
-*   Logistical Coordination: Organizing events, managing resources, facilitating communication flows.
+*   **Logistical Coordination:** Organizing events, managing resources, facilitating communication flows.
     
-*   Artistic Expression & Storytelling: Creating visual art, music, poetry, or narratives that explore issues, communicate insights, or build community identity.11
+*   **Artistic Expression & Storytelling:** Creating visual art, music, poetry, or narratives that explore issues, communicate insights, or build community identity.11
     
-*   Experiential Knowledge: Sharing insights derived from lived experience, practical skills, and local context.
+*   **Experiential Knowledge:** Sharing insights derived from lived experience, practical skills, and local context.
     
 
 This commitment is rooted in the concept of "Multitudes" – the recognition that each individual is not a monolithic entity defined by a single role or credential, but rather a complex intersection of diverse skills, experiences, perspectives, and ways of knowing. Naseej aims to create a space where these individual multitudes can be expressed and contribute holistically, valuing lived experience alongside formal training, and practical skills alongside theoretical knowledge.
@@ -254,10 +254,10 @@ Crucially, Holistic Radical Inclusion necessitates moving beyond purely financia
 
 | Model | Valued Contributions | Mechanisms | Potential Biases/Exclusions | Alignment with Inclusion |
 | --- | --- | --- | --- | --- |
-| Naseej Non-Token Reputation | Knowledge, Care/Relational, Technical, Cultural, Logistical, Artistic, Experiential | Peer validation, Contribution tracking (diverse types), Non-transferable scores/badges | Potential for subjectivity in peer validation; requires careful design to capture diverse contributions accurately. | High: Explicitly designed to value diverse, non-monetary contributions. |
-| Token-Based Voting/Staking (DeSci/DAO examples) 40 | Financial investment (staking), Specific quantifiable actions (e.g., code commits, specific data uploads), Voting participation | Token rewards, Governance rights proportional to token holdings | Plutocratic (wealth = influence), Excludes non-financial contributions, Can incentivize speculation over genuine contribution, Sybil attack vulnerabilities. | Low to Medium: Primarily values financial or easily quantifiable contributions; inclusion depends heavily on token distribution fairness. |
-| Traditional Academic Metrics | Peer-reviewed publications, Citations, Grant funding, Credentials | Journal impact factors, h-index, University rankings, Peer review | Disciplinary silos, Bias against interdisciplinary/applied work, Slow recognition cycles, Excludes non-textual/non-formal knowledge, Geographic/language bias. | Low: Highly formalized, excludes many knowledge forms and contributors. |
-| Platform Capitalism Metrics 7 | Content generation, User engagement (clicks, likes, shares), Data provision (often implicit) | Algorithmic ranking, Advertising revenue models, Network effects | Prioritizes engagement/virality over quality/accuracy, Extracts value from unpaid user labor (data, relational), Lacks transparency, Centralized control. | Very Low: Primarily values contributions that generate platform revenue/engagement, often exploitative. |
+| **Naseej Non-Token Reputation** | Knowledge, Care/Relational, Technical, Cultural, Logistical, Artistic, Experiential | Peer validation, Contribution tracking (diverse types), Non-transferable scores/badges | Potential for subjectivity in peer validation; requires careful design to capture diverse contributions accurately. | High: Explicitly designed to value diverse, non-monetary contributions. |
+| **Token-Based Voting/Staking (DeSci/DAO examples)** 40 | Financial investment (staking), Specific quantifiable actions (e.g., code commits, specific data uploads), Voting participation | Token rewards, Governance rights proportional to token holdings | Plutocratic (wealth = influence), Excludes non-financial contributions, Can incentivize speculation over genuine contribution, Sybil attack vulnerabilities. | Low to Medium: Primarily values financial or easily quantifiable contributions; inclusion depends heavily on token distribution fairness. |
+| **Traditional Academic Metrics** | Peer-reviewed publications, Citations, Grant funding, Credentials | Journal impact factors, h-index, University rankings, Peer review | Disciplinary silos, Bias against interdisciplinary/applied work, Slow recognition cycles, Excludes non-textual/non-formal knowledge, Geographic/language bias. | Low: Highly formalized, excludes many knowledge forms and contributors. |
+| **Platform Capitalism Metrics** 7 | Content generation, User engagement (clicks, likes, shares), Data provision (often implicit) | Algorithmic ranking, Advertising revenue models, Network effects | Prioritizes engagement/virality over quality/accuracy, Extracts value from unpaid user labor (data, relational), Lacks transparency, Centralized control. | Very Low: Primarily values contributions that generate platform revenue/engagement, often exploitative. |
 
 * * *
 
@@ -277,22 +277,22 @@ Ultimately, breaking silos is not merely about co-locating diverse data; it is a
 
 The third pillar positions Naseej as a Platform for Action, driven by the methodology of Participatory Action Research (PAR).11 PAR is an approach where research is conducted with and by a community, rather than on them, with the explicit goal of generating knowledge to inform action and drive positive social change.15 Naseej adopts the PAR cycle as its core operational engine, structuring the platform to support the iterative process of:
 
-1.  Action: Implementing interventions, undertaking projects, engaging in practices within the community.
+1.  **Action:** Implementing interventions, undertaking projects, engaging in practices within the community.
     
-2.  Observation/Documentation: Systematically documenting these actions and their immediate context or outcomes.
+2.  **Observation/Documentation:** Systematically documenting these actions and their immediate context or outcomes.
     
-3.  Reflection: Critically analyzing the observations and experiences related to the action, identifying learnings, challenges, and successes.15
+3.  **Reflection:** Critically analyzing the observations and experiences related to the action, identifying learnings, challenges, and successes.15
     
-4.  Planning/Re-planning (Meta-Reflection): Using the reflections to refine understanding, adjust strategies, formulate new theories, and plan subsequent actions.15
+4.  **Planning/Re-planning (Meta-Reflection):** Using the reflections to refine understanding, adjust strategies, formulate new theories, and plan subsequent actions.15
     
 
 Naseej is explicitly designed to document this entire cycle. Unlike platforms focused solely on storing static knowledge artifacts (like papers or datasets), Naseej provides tools and structures for communities to record:
 
-*   Actions Taken: What was done, by whom, when, where, and why? This could involve linking to project plans, documenting specific interventions, or recording meeting outcomes.
+*   **Actions Taken:** What was done, by whom, when, where, and why? This could involve linking to project plans, documenting specific interventions, or recording meeting outcomes.
     
-*   Reflections: Structured or unstructured reflections on the actions, capturing individual and collective learnings, challenges encountered, unexpected outcomes, and emotional responses. Naseej aims to provide features that facilitate this reflection process, perhaps through prompts, templates, or collaborative annotation tools.15
+*   **Reflections:** Structured or unstructured reflections on the actions, capturing individual and collective learnings, challenges encountered, unexpected outcomes, and emotional responses. Naseej aims to provide features that facilitate this reflection process, perhaps through prompts, templates, or collaborative annotation tools.15
     
-*   Meta-Reflections: Spaces for reflecting on the reflection process itself, discussing the effectiveness of strategies, questioning underlying assumptions, and proposing changes to the community's theoretical frameworks or action plans.
+*   **Meta-Reflections:** Spaces for reflecting on the reflection process itself, discussing the effectiveness of strategies, questioning underlying assumptions, and proposing changes to the community's theoretical frameworks or action plans.
     
 
 A key aspect is the explicit linking of knowledge, action, and reflection. Naseej aims to make the connections between these elements visible and traceable.84 For example, a reflection entry could directly link to the specific action it discusses, which in turn might link to relevant data or knowledge artifacts that informed it. This creates a rich, contextualized history of the community's learning journey.
@@ -309,13 +309,13 @@ Naseej manifests the philosophical principles of Holistic Radical Inclusion, Bre
 
 The design choices underpinning Naseej are directly informed by the acute challenges faced in contexts such as Sudan, ensuring the platform is not only functional but also robust and relevant in demanding environments.
 
-*   P2P Architecture for Resilience: The fundamental choice of a P2P architecture, leveraging the Pear/Holepunch stack 24, is a direct response to the need for resilience against centralized control and censorship.17 Unlike centralized platforms vulnerable to single points of failure or shutdowns mandated by authorities, a P2P system distributes data and control across its participants, making it inherently harder to disrupt or censor.3
+*   **P2P Architecture for Resilience:** The fundamental choice of a P2P architecture, leveraging the Pear/Holepunch stack 24, is a direct response to the need for resilience against centralized control and censorship.17 Unlike centralized platforms vulnerable to single points of failure or shutdowns mandated by authorities, a P2P system distributes data and control across its participants, making it inherently harder to disrupt or censor.3
     
-*   Offline-First Capabilities for Intermittent Connectivity: Recognizing Sudan's challenges with internet infrastructure damage and deliberate shutdowns 17, Naseej is designed with offline-first capabilities.25 Users can access data stored locally, create new contributions (knowledge entries, actions, reflections), and interact with their local instance of the commons even without an active internet connection. Data can then be synchronized with peers when connectivity is restored, using the underlying P2P protocols. This ensures continued productivity and access to information despite unreliable network conditions.
+*   **Offline-First Capabilities for Intermittent Connectivity:** Recognizing Sudan's challenges with internet infrastructure damage and deliberate shutdowns 17, Naseej is designed with offline-first capabilities.25 Users can access data stored locally, create new contributions (knowledge entries, actions, reflections), and interact with their local instance of the commons even without an active internet connection. Data can then be synchronized with peers when connectivity is restored, using the underlying P2P protocols. This ensures continued productivity and access to information despite unreliable network conditions.
     
-*   Data Sovereignty and Security: In environments where surveillance or data seizure is a risk, P2P architectures grant users greater control over their data.25 Naseej utilizes the security features of the Pear stack, including end-to-end encryption for communication between peers (e.g., via SecretStream 24) and cryptographic key pairs for identity and data signing.28 This helps protect the integrity and confidentiality of information within the commons.
+*   **Data Sovereignty and Security:** In environments where surveillance or data seizure is a risk, P2P architectures grant users greater control over their data.25 Naseej utilizes the security features of the Pear stack, including end-to-end encryption for communication between peers (e.g., via SecretStream 24) and cryptographic key pairs for identity and data signing.28 This helps protect the integrity and confidentiality of information within the commons.
     
-*   Valuing and Integrating Diverse Knowledge: The platform's flexible data model (detailed in Section 5.4) is designed to accommodate and interlink diverse forms of knowledge. This directly addresses the need in Sudan (and globally) to preserve, share, and integrate valuable local and indigenous knowledge, including oral histories 22, alongside more formal data types. Naseej provides a space where these different ways of knowing can coexist and inform each other.
+*   **Valuing and Integrating Diverse Knowledge:** The platform's flexible data model (detailed in Section 5.4) is designed to accommodate and interlink diverse forms of knowledge. This directly addresses the need in Sudan (and globally) to preserve, share, and integrate valuable local and indigenous knowledge, including oral histories 22, alongside more formal data types. Naseej provides a space where these different ways of knowing can coexist and inform each other.
     
 
 * * *
@@ -326,13 +326,13 @@ The design choices underpinning Naseej are directly informed by the acute challe
 
 | Sudanese Challenge | Relevant Naseej Feature | How it Addresses the Challenge |
 | --- | --- | --- |
-| Internet Shutdowns & Centralized Control 17 | P2P Architecture (Pear/Holepunch) 24, Decentralized Discovery (HyperDHT) 24 | Eliminates reliance on central servers, making it harder for authorities to shut down the entire system. Peer discovery via DHT avoids centralized bottlenecks for finding other users. |
-| Infrastructure Damage & Intermittent Connectivity 18 | Offline-First Capabilities 114, P2P Replication (Hypercore) 129 | Allows users to access local data and create content offline. Data syncs opportunistically when peers connect, ensuring eventual consistency despite unstable networks. Replication provides data redundancy. |
-| Information Fragmentation & Lack of Synthesis 16 | Flexible Data Model (IPLD) 35, Knowledge Linking 84, Silo-Breaking Philosophy | Enables integration of diverse data types (reports, local accounts, aid info, etc.) into one commons. Explicit linking helps reveal connections. Fosters cross-domain understanding needed for complex humanitarian/political situations. |
+| **Internet Shutdowns & Centralized Control** 17 | P2P Architecture (Pear/Holepunch) 24, Decentralized Discovery (HyperDHT) 24 | Eliminates reliance on central servers, making it harder for authorities to shut down the entire system. Peer discovery via DHT avoids centralized bottlenecks for finding other users. |
+| **Infrastructure Damage & Intermittent Connectivity** 18 | Offline-First Capabilities 114, P2P Replication (Hypercore) 129 | Allows users to access local data and create content offline. Data syncs opportunistically when peers connect, ensuring eventual consistency despite unstable networks. Replication provides data redundancy. |
+| **Information Fragmentation & Lack of Synthesis** 16 | Flexible Data Model (IPLD) 35, Knowledge Linking 84, Silo-Breaking Philosophy | Enables integration of diverse data types (reports, local accounts, aid info, etc.) into one commons. Explicit linking helps reveal connections. Fosters cross-domain understanding needed for complex humanitarian/political situations. |
 | Censorship & Narrative Control 17 | P2P Architecture, Data Sovereignty 25, Cryptographic Signing (Hypercore) 129 | Decentralized nature makes widespread censorship difficult. Users control their data. Cryptographic signatures ensure data integrity and verifiable attribution, countering disinformation by verifying the source of contributions. |
-| Marginalization of Local/Indigenous/Oral Knowledge 22 | Flexible Data Model (IPLD), Holistic Radical Inclusion Philosophy 5 | Designed to accommodate non-textual data like audio/video for oral histories. Philosophical commitment to valuing diverse knowledge forms encourages the inclusion and preservation of local expertise and cultural heritage alongside formal data. |
-| Security & Privacy Concerns in Conflict Zones 18 | End-to-End Encryption (SecretStream) 24, Cryptographic Identity 129 | Secure communication channels protect data in transit. Key-based identity provides authentication without necessarily revealing real-world identities unless desired. User control over data minimizes risks associated with centralized data breaches. |
-| High Cost of Alternative Access (e.g., Starlink) 18 | P2P Architecture, Potential for Local Peering | Reduces reliance on costly centralized or satellite infrastructure by enabling direct peer connections. Facilitates data sharing over local networks where available, minimizing external bandwidth costs. |
+| **Marginalization of Local/Indigenous/Oral Knowledge** 22 | Flexible Data Model (IPLD), Holistic Radical Inclusion Philosophy 5 | Designed to accommodate non-textual data like audio/video for oral histories. Philosophical commitment to valuing diverse knowledge forms encourages the inclusion and preservation of local expertise and cultural heritage alongside formal data. |
+| **Security & Privacy Concerns in Conflict Zones** 18 | End-to-End Encryption (SecretStream) 24, Cryptographic Identity 129 | Secure communication channels protect data in transit. Key-based identity provides authentication without necessarily revealing real-world identities unless desired. User control over data minimizes risks associated with centralized data breaches. |
+| **High Cost of Alternative Access (e.g., Starlink)** 18 | P2P Architecture, Potential for Local Peering | Reduces reliance on costly centralized or satellite infrastructure by enabling direct peer connections. Facilitates data sharing over local networks where available, minimizing external bandwidth costs. |
 
 * * *
 
@@ -340,15 +340,15 @@ The design choices underpinning Naseej are directly informed by the acute challe
 
 While Naseej incorporates principles like openness and decentralization that resonate with the Decentralized Science (DeSci) movement 1, its scope and applicability extend far beyond the confines of scientific research. Naseej is envisioned as a foundational, general-purpose infrastructure for any collaborative endeavor that involves building, sharing, and acting upon knowledge. Its core philosophical tenets and technical design address challenges common across numerous domains:
 
-*   Community Organizing: Local groups can use Naseej to document community issues (e.g., housing, environment, public services), collaboratively develop action plans, share resources and best practices, coordinate mutual aid efforts, and track the progress and impact of their initiatives through the PAR cycle. The resilience and offline features are particularly valuable for grassroots organizing in potentially resource-constrained or politically sensitive environments.
+*   **Community Organizing:** Local groups can use Naseej to document community issues (e.g., housing, environment, public services), collaboratively develop action plans, share resources and best practices, coordinate mutual aid efforts, and track the progress and impact of their initiatives through the PAR cycle. The resilience and offline features are particularly valuable for grassroots organizing in potentially resource-constrained or politically sensitive environments.
     
-*   Cultural Preservation: Communities can utilize Naseej to create a living, dynamic archive of their cultural heritage. This could involve documenting languages, recording oral histories and traditions 23, mapping significant sites, sharing traditional knowledge (e.g., ecological, medicinal), and collaboratively curating digital representations of artifacts. The P2P nature ensures community ownership and control over their heritage data.
+*   **Cultural Preservation:** Communities can utilize Naseej to create a living, dynamic archive of their cultural heritage. This could involve documenting languages, recording oral histories and traditions 23, mapping significant sites, sharing traditional knowledge (e.g., ecological, medicinal), and collaboratively curating digital representations of artifacts. The P2P nature ensures community ownership and control over their heritage data.
     
-*   Participatory Research (Beyond Science): Naseej provides an ideal platform for PAR projects across diverse fields such as public health, education, urban planning, and environmental justice.11 Researchers and community members can co-design studies, collaboratively collect qualitative and quantitative data, document actions taken based on findings, and engage in shared reflection and analysis, all within the platform.
+*   **Participatory Research (Beyond Science):** Naseej provides an ideal platform for PAR projects across diverse fields such as public health, education, urban planning, and environmental justice.11 Researchers and community members can co-design studies, collaboratively collect qualitative and quantitative data, document actions taken based on findings, and engage in shared reflection and analysis, all within the platform.
     
-*   Collaborative Art and Storytelling: Groups of artists, writers, or performers can use Naseej as a shared space to co-create works, share drafts and feedback, document their creative process (including actions and reflections), and build interconnected narratives or multimedia projects.
+*   **Collaborative Art and Storytelling:** Groups of artists, writers, or performers can use Naseej as a shared space to co-create works, share drafts and feedback, document their creative process (including actions and reflections), and build interconnected narratives or multimedia projects.
     
-*   Distributed Education and Skill Sharing: Communities of practice or informal learning groups can build shared knowledge bases, develop learning resources collaboratively, document learning journeys (actions, projects, reflections), and facilitate peer-to-peer skill exchange and mentorship.
+*   **Distributed Education and Skill Sharing:** Communities of practice or informal learning groups can build shared knowledge bases, develop learning resources collaboratively, document learning journeys (actions, projects, reflections), and facilitate peer-to-peer skill exchange and mentorship.
     
 
 A key strength of Naseej in these diverse contexts is its capacity to integrate vastly different types of knowledge within a single, interconnected commons. A community project addressing local health disparities, for instance, could link formal epidemiological data (scientific knowledge) with patient testimonies (experiential knowledge), records of community health worker interventions (action documentation), reflections on program effectiveness (reflective knowledge), maps of local resources (geospatial knowledge), and relevant policy documents (legal knowledge). This ability to weave together multiple forms of knowing and doing is fundamental to breaking down silos and enabling holistic understanding and action.
@@ -365,95 +365,70 @@ Pear Runtime provides the environment for developing and running P2P application
 
 ### 5.2. Core Data Layer: Hypercore, Corestore, Hyperbee
 
-*   Hypercore: At the base lies Hypercore, a secure, distributed, append-only log.129 Each addition (append) to a Hypercore is cryptographically signed by the owner's private key and linked to previous entries via Merkle trees.129
+*   **Hypercore:** At the base lies Hypercore, a secure, distributed, append-only log.129 Each addition (append) to a Hypercore is cryptographically signed by the owner's private key and linked to previous entries via Merkle trees.129
+    *   **Philosophical Alignment:** Hypercore's append-only nature provides an immutable, verifiable history of contributions, essential for the reflection and auditability aspects of the PAR cycle.140 Signatures ensure clear attribution, linking each contribution to a specific identity (public key).129 Its design supports sparse replication and efficient operation even in offline-first scenarios, crucial for resilience.139 Its potential for IPLD integration allows for flexible data representation.142
     
 
-*   Philosophical Alignment: Hypercore's append-only nature provides an immutable, verifiable history of contributions, essential for the reflection and auditability aspects of the PAR cycle.140 Signatures ensure clear attribution, linking each contribution to a specific identity (public key).129 Its design supports sparse replication and efficient operation even in offline-first scenarios, crucial for resilience.139 Its potential for IPLD integration allows for flexible data representation.142
+*   **Corestore:** Naseej utilizes Corestore to manage collections of potentially numerous Hypercores.120 A single Naseej instance might involve separate Hypercores for different data types (e.g., user profiles, specific knowledge domains, action logs, reflection journals, reputation ledgers) or different collaborative spaces.
+    *   **Philosophical Alignment:** Corestore enables the modular organization needed to break down silos conceptually while maintaining underlying connections.143 Its namespacing feature allows multiple communities or projects to coexist within a shared Naseej instance without data collisions, supporting scalability and multi-tenancy.121 It simplifies the replication of these interconnected datasets.121
     
 
-*   Corestore: Naseej utilizes Corestore to manage collections of potentially numerous Hypercores.120 A single Naseej instance might involve separate Hypercores for different data types (e.g., user profiles, specific knowledge domains, action logs, reflection journals, reputation ledgers) or different collaborative spaces.
-    
-
-*   Philosophical Alignment: Corestore enables the modular organization needed to break down silos conceptually while maintaining underlying connections.143 Its namespacing feature allows multiple communities or projects to coexist within a shared Naseej instance without data collisions, supporting scalability and multi-tenancy.121 It simplifies the replication of these interconnected datasets.121
-    
-
-*   Hyperbee: Built atop Hypercore, Hyperbee provides an append-only B-tree structure, offering an efficient key-value store with support for sorted range queries.139
-    
-
-*   Philosophical Alignment: Hyperbee is suitable for storing and indexing the structured data within Naseej, such as the definitions of knowledge artifacts (SKUs, including their types and relations/fields), contributor profiles, and potentially the non-tokenized reputation data.145 Its append-only nature preserves the history required for reflection and understanding evolution. Sub-databases (db.sub()) can further organize data, e.g., separating different types of SKUs or PAR cycle components 144, contributing to breaking down conceptual silos while maintaining linkage.
+*   **Hyperbee:** Built atop Hypercore, Hyperbee provides an append-only B-tree structure, offering an efficient key-value store with support for sorted range queries.139
+    *   **Philosophical Alignment:** Hyperbee is suitable for storing and indexing the structured data within Naseej, such as the definitions of knowledge artifacts (SKUs, including their types and relations/fields), contributor profiles, and potentially the non-tokenized reputation data.145 Its append-only nature preserves the history required for reflection and understanding evolution. Sub-databases (db.sub()) can further organize data, e.g., separating different types of SKUs or PAR cycle components 144, contributing to breaking down conceptual silos while maintaining linkage.
     
 
 ### 5.3. Multi-Writer Collaboration & Consistency: Autobase
 
 Handling contributions from multiple participants concurrently in a decentralized system requires a robust mechanism for merging inputs and ensuring consistency. Naseej employs Autobase for this purpose.30
 
-*   Autobase Functionality: Autobase acts as a "virtual Hypercore" layer, taking multiple input Hypercores (one per writer/contributor) and linearizing their appended blocks into a single, eventually consistent output view.30 It achieves this by analyzing the causal dependencies between blocks (forming a Directed Acyclic Graph - DAG).30 As new information arrives, Autobase can reorder blocks based on causality, ensuring that the final view reflects a consistent history.30 The apply function, provided by the application (Naseej), defines how the linearized sequence of events is processed to build or update the shared state (the view).30 Acknowledgements (ack) from designated "indexers" help confirm the linearized state and speed up convergence.30
-    
-
-*   Philosophical Alignment (PAR & Silo-Breaking): Autobase directly enables the Platform for Action (PAR) cycle in a collaborative setting. Contributions from multiple users—documenting actions, adding knowledge artifacts, recording reflections—are appended to their individual Hypercores. Autobase then weaves these disparate threads into a coherent, shared timeline (the linearized view). The apply function acts as the engine that constructs the collective understanding or state based on these ordered contributions.30 This mechanism inherently breaks down silos by merging diverse inputs into a unified, evolving knowledge base.
-    
-*   Philosophical Alignment (Inclusion): Autobase's multi-writer nature supports inclusive participation, allowing concurrent contributions without requiring strict, centralized locking mechanisms. Its eventual consistency model gracefully handles contributions from participants with varying levels of connectivity, supporting offline-first workflows essential for resilience.
-    
-*   Comparison with CRDTs: Conflict-Free Replicated Data Types (CRDTs) are another approach to achieving eventual consistency in multi-writer scenarios.149 While CRDTs offer strong guarantees for specific data types (counters, sets, etc.), Autobase's DAG-based approach provides a built-in causal history that can be simpler to reason about for complex, evolving knowledge structures. Autobase's reordering mechanism handles conflicts based on the causal order of events 30, providing a deterministic way to merge concurrent contributions into the shared view.
+*   **Autobase Functionality:** Autobase acts as a "virtual Hypercore" layer, taking multiple input Hypercores (one per writer/contributor) and linearizing their appended blocks into a single, eventually consistent output view.30 It achieves this by analyzing the causal dependencies between blocks (forming a Directed Acyclic Graph - DAG).30 As new information arrives, Autobase can reorder blocks based on causality, ensuring that the final view reflects a consistent history.30 The apply function, provided by the application (Naseej), defines how the linearized sequence of events is processed to build or update the shared state (the view).30 Acknowledgements (ack) from designated "indexers" help confirm the linearized state and speed up convergence.30
+    *   **Philosophical Alignment (PAR & Silo-Breaking):** Autobase directly enables the Platform for Action (PAR) cycle in a collaborative setting. Contributions from multiple users—documenting actions, adding knowledge artifacts, recording reflections—are appended to their individual Hypercores. Autobase then weaves these disparate threads into a coherent, shared timeline (the linearized view). The apply function acts as the engine that constructs the collective understanding or state based on these ordered contributions.30 This mechanism inherently breaks down silos by merging diverse inputs into a unified, evolving knowledge base.
+    *   **Philosophical Alignment (Inclusion):** Autobase's multi-writer nature supports inclusive participation, allowing concurrent contributions without requiring strict, centralized locking mechanisms. Its eventual consistency model gracefully handles contributions from participants with varying levels of connectivity, supporting offline-first workflows essential for resilience.
+    *   **Comparison with CRDTs:** Conflict-Free Replicated Data Types (CRDTs) are another approach to achieving eventual consistency in multi-writer scenarios.149 While CRDTs offer strong guarantees for specific data types (counters, sets, etc.), Autobase's DAG-based approach provides a built-in causal history that can be simpler to reason about for complex, evolving knowledge structures. Autobase's reordering mechanism handles conflicts based on the causal order of events 30, providing a deterministic way to merge concurrent contributions into the shared view.
     
 
 ### 5.4. Data Representation: IPLD (InterPlanetary Linked Data)
 
 To represent the diverse and interconnected knowledge within Naseej, the platform utilizes the IPLD data model.34
 
-*   IPLD Data Model & Kinds: IPLD provides a universal data model based on familiar kinds like maps, lists, strings, integers, booleans, bytes, and crucially, links.36 This allows different data structures to be represented in a compatible way, regardless of the underlying encoding format (like JSON or CBOR).
-    
-*   Content Addressing & Linking (CIDs): IPLD enables linking between data blocks using Content Identifiers (CIDs), which are derived from the cryptographic hash of the content itself.34 This creates content-addressed, verifiable links.
-    
+*   **IPLD Data Model & Kinds:** IPLD provides a universal data model based on familiar kinds like maps, lists, strings, integers, booleans, bytes, and crucially, links.36 This allows different data structures to be represented in a compatible way, regardless of the underlying encoding format (like JSON or CBOR).
 
-*   Philosophical Alignment (Silo-Breaking & Multitudes): IPLD's inherent flexibility is key to Naseej's ability to break silos and support Holistic Radical Inclusion. It allows the platform to represent and interlink vastly different types of information – structured SKU definitions, unstructured reflections, action logs, contributor profiles, multimedia references, etc. – within a single, navigable data space.35 This supports the "multitudes" concept by allowing complex, multi-faceted contributions and knowledge types to coexist and be linked.
-    
-*   Philosophical Alignment (Resilience & Verifiability): Content addressing ensures data integrity; any change to data results in a new CID, making tampering evident.36 This is vital for trust in a decentralized system, especially in contested information environments.
-    
+*   **Content Addressing & Linking (CIDs):** IPLD enables linking between data blocks using Content Identifiers (CIDs), which are derived from the cryptographic hash of the content itself.34 This creates content-addressed, verifiable links.
+    *   **Philosophical Alignment (Silo-Breaking & Multitudes):** IPLD's inherent flexibility is key to Naseej's ability to break silos and support Holistic Radical Inclusion. It allows the platform to represent and interlink vastly different types of information – structured SKU definitions, unstructured reflections, action logs, contributor profiles, multimedia references, etc. – within a single, navigable data space.35 This supports the "multitudes" concept by allowing complex, multi-faceted contributions and knowledge types to coexist and be linked.
+    *   **Philosophical Alignment (Resilience & Verifiability):** Content addressing ensures data integrity; any change to data results in a new CID, making tampering evident.36 This is vital for trust in a decentralized system, especially in contested information environments.
 
-*   IPLD Schemas: Naseej leverages IPLD Schemas to define the structure of its data objects (e.g., SKUs, PAR entries).35 Schemas enable data validation, ensuring contributions conform to expected formats. They employ structural typing, meaning schemas can describe data based on its shape rather than embedded type names, allowing flexibility.35 Schemas also define representation strategies, allowing a balance between human-readable formats and more compact binary representations.35 Critically, IPLD Schemas support evolution, providing mechanisms to manage changes in data structures over time, which is essential for the Adaptive Schemas of Significance (ASoS) concept in Naseej.38
+
+*   **IPLD Schemas:** Naseej leverages IPLD Schemas to define the structure of its data objects (e.g., SKUs, PAR entries).35 Schemas enable data validation, ensuring contributions conform to expected formats. They employ structural typing, meaning schemas can describe data based on its shape rather than embedded type names, allowing flexibility.35 Schemas also define representation strategies, allowing a balance between human-readable formats and more compact binary representations.35 Critically, IPLD Schemas support evolution, providing mechanisms to manage changes in data structures over time, which is essential for the Adaptive Schemas of Significance (ASoS) concept in Naseej.38
     
-*   Integration with Hypercore/Hyperbee: IPLD data objects, typically encoded using efficient binary formats like DAG-CBOR 176, can be stored as the values within Hyperbee entries.179 The Autobase apply function would be responsible for decoding incoming IPLD data from peer contributions, validating it against the relevant IPLD schema, and updating the Hyperbee view accordingly.30
+*   **Integration with Hypercore/Hyperbee:** IPLD data objects, typically encoded using efficient binary formats like DAG-CBOR 176, can be stored as the values within Hyperbee entries.179 The Autobase apply function would be responsible for decoding incoming IPLD data from peer contributions, validating it against the relevant IPLD schema, and updating the Hyperbee view accordingly.30
     
 
 ### 5.5. Networking & Discovery: Hyperswarm & HyperDHT
 
 To enable peers to find each other and exchange data in a decentralized manner, Naseej utilizes Hyperswarm and HyperDHT.24
 
-*   Functionality: Hyperswarm provides a high-level API for peers to join a "swarm" based on a shared topic (typically a Hypercore discovery key).132 It uses the underlying HyperDHT, a distributed hash table, to discover other peers interested in the same topic and facilitates establishing direct, end-to-end encrypted connections between them, employing UDP hole-punching techniques to navigate NATs and firewalls.132
-    
-
-*   Philosophical Alignment (Resilience & Decentralization): This decentralized discovery mechanism eliminates reliance on central servers for peer finding, enhancing resilience and censorship resistance, crucial for the platform's operation in challenging environments like Sudan.24
+*   **Functionality:** Hyperswarm provides a high-level API for peers to join a "swarm" based on a shared topic (typically a Hypercore discovery key).132 It uses the underlying HyperDHT, a distributed hash table, to discover other peers interested in the same topic and facilitates establishing direct, end-to-end encrypted connections between them, employing UDP hole-punching techniques to navigate NATs and firewalls.132
+    *   **Philosophical Alignment (Resilience & Decentralization):** This decentralized discovery mechanism eliminates reliance on central servers for peer finding, enhancing resilience and censorship resistance, crucial for the platform's operation in challenging environments like Sudan.24
     
 
 ### 5.6. Identity, Reputation, and Access Control
 
 Managing participation, trust, and permissions in an open, decentralized system requires careful design, balancing inclusivity with security.
 
-*   Identity: The foundation of identity in Naseej is the cryptographic key pair associated with each user's primary Hypercore.129 This public key serves as a stable, verifiable identifier within the system. User experience aspects related to key management might leverage concepts similar to Pear Keychain for ease of use.119
+*   **Identity:** The foundation of identity in Naseej is the cryptographic key pair associated with each user's primary Hypercore.129 This public key serves as a stable, verifiable identifier within the system. User experience aspects related to key management might leverage concepts similar to Pear Keychain for ease of use.119
     
-*   Non-Token Reputation: As outlined in the philosophy, Naseej employs a non-tokenized reputation system designed to reflect the value of diverse contributions.64 This system aims to track contributions across various categories (knowledge sharing, care work, technical help, etc.), potentially through peer attestations or analysis of activity within the platform, and translate these into non-transferable reputation scores or badges. This aligns with Holistic Radical Inclusion by recognizing a broader spectrum of value than purely financial or token-based systems.40 It focuses on building trust through demonstrated behavior and community recognition.65
+*   **Non-Token Reputation:** As outlined in the philosophy, Naseej employs a non-tokenized reputation system designed to reflect the value of diverse contributions.64 This system aims to track contributions across various categories (knowledge sharing, care work, technical help, etc.), potentially through peer attestations or analysis of activity within the platform, and translate these into non-transferable reputation scores or badges. This aligns with Holistic Radical Inclusion by recognizing a broader spectrum of value than purely financial or token-based systems.40 It focuses on building trust through demonstrated behavior and community recognition.65
     
-*   Sybil Resistance: Preventing malicious actors from creating numerous fake identities (Sybil attacks) 190 to gain undue influence is critical. Naseej adopts a hybrid approach:
+*   **Sybil Resistance:** Preventing malicious actors from creating numerous fake identities (Sybil attacks) 190 to gain undue influence is critical. Naseej adopts a hybrid approach:
+    *   **Reputation/Cost:** The non-token reputation system itself acts as a deterrent. Building genuine reputation across diverse contribution types is difficult and time-consuming to fake, making large-scale Sybil attacks costly in terms of effort, even if not direct monetary cost.66 Low-reputation identities would have limited influence.
+    *   **Social Graphs/Web of Trust (WoT):** The system may incorporate elements of social network analysis or WoT principles.76 Trust relationships between existing, verified members could be used to vouch for new participants, leveraging the assumption that Sybil attackers have limited ability to form genuine trust links with the honest community.199 Implementation requires careful consideration of privacy implications 195 and the validity of assumptions about social graph structure.199
+    *   **Proof of Personhood (PoP) LITE:** Given the context and the goal of inclusion, heavy-handed PoP mechanisms requiring extensive biometric data 213 or centralized identity verification 190 are likely unsuitable. Naseej may explore lightweight, community-centric PoP approaches, such as vouching within the WoT, or context-specific verification methods that are less burdensome.63 This acknowledges the "Decentralized Identity Trilemma" 63 – the difficulty of simultaneously achieving strong Sybil resistance, permissionlessness, and freeness/privacy. Naseej prioritizes inclusion and permissionlessness, accepting that Sybil resistance might rely more on social and reputational costs than absolute cryptographic barriers, and avoiding token-based resource tests.190
+    *   **Philosophical Alignment:** This hybrid, non-token-centric approach to Sybil resistance is crucial for maintaining Radical Inclusion. It aims to make attacks difficult and costly in terms of social capital and effort, without imposing prohibitive financial or privacy-invasive barriers on legitimate participants from diverse backgrounds.190
     
-
-*   Reputation/Cost: The non-token reputation system itself acts as a deterrent. Building genuine reputation across diverse contribution types is difficult and time-consuming to fake, making large-scale Sybil attacks costly in terms of effort, even if not direct monetary cost.66 Low-reputation identities would have limited influence.
-    
-*   Social Graphs/Web of Trust (WoT): The system may incorporate elements of social network analysis or WoT principles.76 Trust relationships between existing, verified members could be used to vouch for new participants, leveraging the assumption that Sybil attackers have limited ability to form genuine trust links with the honest community.199 Implementation requires careful consideration of privacy implications 195 and the validity of assumptions about social graph structure.199
-    
-*   Proof of Personhood (PoP) LITE: Given the context and the goal of inclusion, heavy-handed PoP mechanisms requiring extensive biometric data 213 or centralized identity verification 190 are likely unsuitable. Naseej may explore lightweight, community-centric PoP approaches, such as vouching within the WoT, or context-specific verification methods that are less burdensome.63 This acknowledges the "Decentralized Identity Trilemma" 63 – the difficulty of simultaneously achieving strong Sybil resistance, permissionlessness, and freeness/privacy. Naseej prioritizes inclusion and permissionlessness, accepting that Sybil resistance might rely more on social and reputational costs than absolute cryptographic barriers, and avoiding token-based resource tests.190
-    
-*   Philosophical Alignment: This hybrid, non-token-centric approach to Sybil resistance is crucial for maintaining Radical Inclusion. It aims to make attacks difficult and costly in terms of social capital and effort, without imposing prohibitive financial or privacy-invasive barriers on legitimate participants from diverse backgrounds.190
-    
-
-*   Access Control: Managing permissions within the decentralized commons is necessary. While Hypercore/Hyperdrive offer basic write control based on key ownership 141, more granular control is needed. Naseej might explore:
-    
-
-*   Capability-Based Systems: Concepts like UCANs (User-Controlled Authorization Networks) offer a model for delegable, fine-grained permissions.224 While direct integration with Hypercore isn't documented 225, UCAN principles could inform an access control layer built on top, potentially linking capabilities to reputation levels.
-    
-*   Decentralized RBAC: Role-Based Access Control patterns could be adapted.230 Roles (e.g., contributor, moderator, archivist) could be defined within communities, associated with specific permissions, and assigned based on reputation or community consensus, with role definitions and assignments managed within Hyperbee/Autobase.
-    
-*   Philosophical Alignment: A flexible, community-configurable access control system supports inclusion (allowing different levels of participation) and security, enabling groups to protect sensitive information while maintaining an open commons.33
+*   **Access Control:** Managing permissions within the decentralized commons is necessary. While Hypercore/Hyperdrive offer basic write control based on key ownership 141, more granular control is needed. Naseej might explore:
+    *   **Capability-Based Systems:** Concepts like UCANs (User-Controlled Authorization Networks) offer a model for delegable, fine-grained permissions.224 While direct integration with Hypercore isn't documented 225, UCAN principles could inform an access control layer built on top, potentially linking capabilities to reputation levels.
+    *   **Decentralized RBAC:** Role-Based Access Control patterns could be adapted.230 Roles (e.g., contributor, moderator, archivist) could be defined within communities, associated with specific permissions, and assigned based on reputation or community consensus, with role definitions and assignments managed within Hyperbee/Autobase.
+    *   **Philosophical Alignment:** A flexible, community-configurable access control system supports inclusion (allowing different levels of participation) and security, enabling groups to protect sensitive information while maintaining an open commons.33
     
 
 The deliberate selection of the Pear/Holepunch stack and technologies like IPLD, combined with a bespoke, non-tokenized reputation and hybrid Sybil resistance mechanism, demonstrates how Naseej's architecture is purpose-built to manifest its core philosophy. It prioritizes resilience, user agency, flexibility, and inclusivity, rejecting architectures that would compromise these values.
@@ -466,11 +441,11 @@ The deliberate selection of the Pear/Holepunch stack and technologies like IPLD,
 
 | Philosophical Principle | Key Technical Components | Justification / Linkage |
 | --- | --- | --- |
-| Holistic Radical Inclusion | Non-Token Reputation System 64, IPLD Data Model 35, P2P Architecture 24 | Values diverse contributions beyond finance/code. Flexible data model represents varied knowledge types ("multitudes"). P2P lowers barriers to entry compared to costly centralized infra. Hybrid Sybil resistance avoids exclusionary PoP/KYC. |
-| Breaking Knowledge Silos | IPLD (Links & Schemas) 34, Autobase 30, Hyperbee (Sub-DBs) 144 | IPLD links connect diverse data types across domains. Autobase merges inputs from different contributors/domains into a unified view. Hyperbee sub-databases organize related information. Facilitates synthesis and discovery across boundaries. |
-| Platform for Action (PAR Cycle) | Autobase 30, Hypercore (Append-only Log) 129, IPLD Linking 34 | Autobase linearizes actions, reflections, etc., from multiple writers into a shared history. Hypercore provides immutable record of the cycle. IPLD links explicitly connect actions, reflections, and knowledge artifacts, making the learning loop visible and traceable. |
-| Contextual Resilience (Sudan Focus) | P2P Architecture (Pear/Holepunch) 24, Offline-First Capabilities 114, HyperDHT/Hyperswarm 132, E2E Encryption 24 | Decentralization resists shutdowns/censorship. Offline access ensures usability with intermittent connectivity. DHT enables peer discovery without central servers. Encryption protects data in potentially insecure environments. Directly addresses infrastructure and control challenges. |
-| User Control & Data Sovereignty | P2P Architecture, Cryptographic Keys (Hypercore) 129, Local-First Design 24 | Data resides primarily on user devices, not central servers. Users control their own cryptographic keys for identity and signing. Local-first approach prioritizes user access and control over their local data copy. |
+| **Holistic Radical Inclusion** | Non-Token Reputation System 64, IPLD Data Model 35, P2P Architecture 24 | Values diverse contributions beyond finance/code. Flexible data model represents varied knowledge types ("multitudes"). P2P lowers barriers to entry compared to costly centralized infra. Hybrid Sybil resistance avoids exclusionary PoP/KYC. |
+| **Breaking Knowledge Silos** | IPLD (Links & Schemas) 34, Autobase 30, Hyperbee (Sub-DBs) 144 | IPLD links connect diverse data types across domains. Autobase merges inputs from different contributors/domains into a unified view. Hyperbee sub-databases organize related information. Facilitates synthesis and discovery across boundaries. |
+| **Platform for Action (PAR Cycle)** | Autobase 30, Hypercore (Append-only Log) 129, IPLD Linking 34 | Autobase linearizes actions, reflections, etc., from multiple writers into a shared history. Hypercore provides immutable record of the cycle. IPLD links explicitly connect actions, reflections, and knowledge artifacts, making the learning loop visible and traceable. |
+| **Contextual Resilience (Sudan Focus)** | P2P Architecture (Pear/Holepunch) 24, Offline-First Capabilities 114, HyperDHT/Hyperswarm 132, E2E Encryption 24 | Decentralization resists shutdowns/censorship. Offline access ensures usability with intermittent connectivity. DHT enables peer discovery without central servers. Encryption protects data in potentially insecure environments. Directly addresses infrastructure and control challenges. |
+| **User Control & Data Sovereignty** | P2P Architecture, Cryptographic Keys (Hypercore) 129, Local-First Design 24 | Data resides primarily on user devices, not central servers. Users control their own cryptographic keys for identity and signing. Local-first approach prioritizes user access and control over their local data copy. |
 
 * * *
 
@@ -482,31 +457,31 @@ Naseej's innovation extends beyond its philosophical grounding and P2P architect
 
 A static knowledge structure cannot adequately serve a living community engaged in ongoing action and reflection. Naseej addresses this through a flexible and evolvable data model, leveraging IPLD and aiming towards Adaptive Schemas of Significance (ASoS).
 
-*   IPLD Schema Flexibility: As discussed, IPLD Schemas provide the necessary flexibility to represent the diverse entities within Naseej: SKUs (defining types, relations, fields), PAR cycle components (action records, reflection entries), contributor profiles, reputation data, and the crucial links connecting them.35 For instance, a ReflectionEntry schema might include fields for the reflective text, a link (&ActionEntry) to the action being reflected upon, links to contributors (\[&ContributorProfile\]), and associated tags or concepts (\`\`).35
+*   **IPLD Schema Flexibility:** As discussed, IPLD Schemas provide the necessary flexibility to represent the diverse entities within Naseej: SKUs (defining types, relations, fields), PAR cycle components (action records, reflection entries), contributor profiles, reputation data, and the crucial links connecting them.35 For instance, a ReflectionEntry schema might include fields for the reflective text, a link (&ActionEntry) to the action being reflected upon, links to contributors (\[&ContributorProfile\]), and associated tags or concepts (\`\`).35
     
-*   Adapting to Emergence (ASoS): Naseej embraces the idea that the very structure of knowledge should adapt based on the community's evolving understanding and practice. The concept of Adaptive Schemas of Significance (ASoS) envisions the knowledge structure itself (represented by IPLD Schemas) as subject to change through community consensus. IPLD's features for schema evolution (e.g., using unions or dedicated version fields to distinguish schema versions, defining migration functions to translate between versions 38) provide the technical foundation. Changes to schemas could be proposed as specific event types within the Autobase log. Following community discussion and consensus (potentially mediated by the reputation system), these changes could be formally adopted, perhaps by updating the schema definitions used by the Autobase apply function or through a dedicated schema management layer built on Autobase. This contrasts sharply with the rigidity of traditional databases or knowledge bases where schema changes are often difficult and disruptive.140
+*   **Adapting to Emergence (ASoS):** Naseej embraces the idea that the very structure of knowledge should adapt based on the community's evolving understanding and practice. The concept of Adaptive Schemas of Significance (ASoS) envisions the knowledge structure itself (represented by IPLD Schemas) as subject to change through community consensus. IPLD's features for schema evolution (e.g., using unions or dedicated version fields to distinguish schema versions, defining migration functions to translate between versions 38) provide the technical foundation. Changes to schemas could be proposed as specific event types within the Autobase log. Following community discussion and consensus (potentially mediated by the reputation system), these changes could be formally adopted, perhaps by updating the schema definitions used by the Autobase apply function or through a dedicated schema management layer built on Autobase. This contrasts sharply with the rigidity of traditional databases or knowledge bases where schema changes are often difficult and disruptive.140
     
-*   Philosophical Alignment: This capacity for structural adaptation is a direct implementation of the PAR principle that practice should refine theory.12 As a community acts and reflects, its understanding (and thus the optimal way to structure its knowledge) evolves. ASoS allows the Naseej commons to be a living system, reflecting this ongoing learning journey rather than being constrained by a fixed initial design.
+*   **Philosophical Alignment:** This capacity for structural adaptation is a direct implementation of the PAR principle that practice should refine theory.12 As a community acts and reflects, its understanding (and thus the optimal way to structure its knowledge) evolves. ASoS allows the Naseej commons to be a living system, reflecting this ongoing learning journey rather than being constrained by a fixed initial design.
     
 
 ### 6.2. Multi-Writer Knowledge Construction
 
 Autobase serves not just as a log synchronization mechanism but as the engine for the collaborative construction of the Naseej knowledge graph itself.30
 
-*   Distributed Ontology Building: Users don't merely consume a predefined structure; they actively participate in building it. A user might propose a new SKU type, define a new relationship between existing types, or link a specific reflection to an action by appending a corresponding IPLD object (structured according to the relevant schema) to their personal Hypercore.
+*   **Distributed Ontology Building:** Users don't merely consume a predefined structure; they actively participate in building it. A user might propose a new SKU type, define a new relationship between existing types, or link a specific reflection to an action by appending a corresponding IPLD object (structured according to the relevant schema) to their personal Hypercore.
     
-*   The apply Function as Consensus Point: These proposed changes flow into the Autobase linearization process. The critical point of integration is the apply function.30 This function, executed by peers (especially indexers), examines the linearized stream of proposed changes. It must contain the logic to validate these proposals (e.g., checking schema validity, ensuring consistency, potentially verifying contributor reputation or applying community-defined consensus rules) and decide whether to integrate the change into the shared view (e.g., updating the Hyperbee representing the knowledge structure).251 Managing updates to the apply function itself in a decentralized, trustworthy way presents a significant governance challenge, potentially requiring its own consensus mechanism.251
+*   **The apply Function as Consensus Point:** These proposed changes flow into the Autobase linearization process. The critical point of integration is the apply function.30 This function, executed by peers (especially indexers), examines the linearized stream of proposed changes. It must contain the logic to validate these proposals (e.g., checking schema validity, ensuring consistency, potentially verifying contributor reputation or applying community-defined consensus rules) and decide whether to integrate the change into the shared view (e.g., updating the Hyperbee representing the knowledge structure).251 Managing updates to the apply function itself in a decentralized, trustworthy way presents a significant governance challenge, potentially requiring its own consensus mechanism.251
     
 
 ### 6.3. Facilitating Synthesis and Discovery
 
 Beyond storing and structuring knowledge, Naseej aims to actively facilitate synthesis – the drawing of new connections and insights from the assembled information.
 
-*   Linking Across Silos: The platform's design and UI/UX 100 will encourage and simplify the creation of meaningful links (using IPLD CIDs) between different elements. Users should be able to easily link a reflection to the specific action it pertains to, connect a research finding (SKU) to a community project (Action) that applied it, associate an oral history recording with a geographical location (Place SKU), or relate a technical solution to the problem it addressed. Making these relationships explicit is the first step towards synthesis.
+*   **Linking Across Silos:** The platform's design and UI/UX 100 will encourage and simplify the creation of meaningful links (using IPLD CIDs) between different elements. Users should be able to easily link a reflection to the specific action it pertains to, connect a research finding (SKU) to a community project (Action) that applied it, associate an oral history recording with a geographical location (Place SKU), or relate a technical solution to the problem it addressed. Making these relationships explicit is the first step towards synthesis.
     
-*   Knowledge Graph Visualization/Exploration: To help users navigate the potentially vast and complex web of interconnected information, Naseej can incorporate knowledge graph visualization techniques.84 Interactive graph interfaces could allow users to explore connections, filter by entity type or relationship, identify clusters of activity or knowledge, and discover non-obvious pathways, thereby stimulating synthetic thinking.86
+*   **Knowledge Graph Visualization/Exploration:** To help users navigate the potentially vast and complex web of interconnected information, Naseej can incorporate knowledge graph visualization techniques.84 Interactive graph interfaces could allow users to explore connections, filter by entity type or relationship, identify clusters of activity or knowledge, and discover non-obvious pathways, thereby stimulating synthetic thinking.86
     
-*   Search and Discovery: The combination of structured data storage (Hyperbee), defined schemas (IPLD Schemas), and explicit linking enables more powerful and context-aware search and discovery than is possible in repositories of unstructured documents. Users could search not just for keywords but for specific types of entities, relationships, or patterns within the PAR cycle.
+*   **Search and Discovery:** The combination of structured data storage (Hyperbee), defined schemas (IPLD Schemas), and explicit linking enables more powerful and context-aware search and discovery than is possible in repositories of unstructured documents. Users could search not just for keywords but for specific types of entities, relationships, or patterns within the PAR cycle.
     
 
 The innovation of Naseej arises from the interplay of these elements. Autobase provides the decentralized, multi-writer foundation for collaborative construction. IPLD offers the flexible, linkable data language. The PAR philosophy provides the guiding framework, ensuring that the construction process is geared towards actionable, reflective learning. Together, they create the potential for a truly adaptive and synthetic knowledge commons, capable of evolving alongside the communities it serves.
@@ -516,43 +491,61 @@ The innovation of Naseej arises from the interplay of these elements. Autobase p
 The development of Naseej is an ongoing process, guided by its core philosophical principles and the goal of creating a robust, general-purpose knowledge commons.
 
 **Current Status:** Naseej is currently in the conceptual and early prototyping phase. Foundational architectural decisions have been made, centering on the Pear/Holepunch stack (Hypercore, Hyperbee, Autobase, Hyperswarm) and the IPLD data model. Initial schema designs for core entities (SKUs, PAR components, basic contributor profiles) are being developed.
-    
-### Short-Term Goals (Next 6-12 Months):
-    
 
-*   Core Implementation: Develop the basic platform functionalities: creating, storing, and linking core knowledge artifacts (SKUs) and PAR cycle elements (actions, reflections) using Hyperbee and Autobase. Implement basic IPLD schema validation within the apply function.
+### Phase 0: MVP Setup & Foundational Practices
+
+Rapidly build the essential Anytype structure, onboard a small core team, validate basic functionality, and establish good data practices compatible with future verifiability goals.
+
+[]   **Core Structure Setup (High Priority):** Use existing solutions (e.g. AnyType)
+
+[]   **Foundational Document Integration:** Add latest versions of core documents
+
+[]   **Minimal Onboarding & Core Team:** Finalize simple onboarding checklist (reading core docs, Anytype invite, emphasis on data quality/linking/attribution).
+
+[]   **Initial Content Seeding & Testing (MVP Validation):** Core team adds a small number of diverse SKU examples.
+
+[]   **Focus:** Basic Anytype functionality (Object creation, linking, Sets) AND Foundational Practice (Is source/contributor info captured consistently? Are initial links meaningful? Does the structure support basic provenance tracking?).
+
+[]   **Task:** Core team begins documenting any immediate limitations encountered with Anytype regarding collaboration, linking complexity, or data structure needs.
+
+[]   **Basic Communication Channel:** Set up simplest viable channel for core team communication/feedback.
+
     
-*   Basic Reputation & Identity: Implement the foundational cryptographic identity system based on Hypercore keys. Begin development of the non-tokenized reputation tracking mechanism, focusing initially on capturing contribution types.
+### Short-Term Goals (Next 6-12 Months):    
+
+[]   **Core Implementation:** Develop the basic platform functionalities: creating, storing, and linking core knowledge artifacts (SKUs) and PAR cycle elements (actions, reflections) using Hyperbee and Autobase. Implement basic IPLD schema validation within the apply function.
     
-*   P2P Networking: Ensure reliable peer discovery and data replication using Hyperswarm/HyperDHT.
+[]   **Basic Reputation & Identity:** Implement the foundational cryptographic identity system based on Hypercore keys. Begin development of the non-tokenized reputation tracking mechanism, focusing initially on capturing contribution types.
     
-*   Usability Testing & Pilot: Conduct early usability testing with a small, targeted community. Initiate a pilot project, potentially focusing on a specific use case like cultural archiving within a Sudanese diaspora community or supporting a collaborative research project aligned with PAR principles. Gather feedback on core functionality and user experience.
+[]   **P2P Networking:** Ensure reliable peer discovery and data replication using Hyperswarm/HyperDHT.
+    
+[]   **Usability Testing & Pilot:** Conduct early usability testing with a small, targeted community. Initiate a pilot project, potentially focusing on a specific use case like cultural archiving within a Sudanese diaspora community or supporting a collaborative research project aligned with PAR principles. Gather feedback on core functionality and user experience.
     
 
 ### Mid-Term Goals (1-3 Years):
     
 
-*   Refined Reputation System: Fully develop and integrate the non-tokenized reputation system, including mechanisms for peer validation and diverse contribution tracking. Explore lightweight Sybil resistance mechanisms (WoT, PoP-lite).
+[]   **Refined Reputation System:** Fully develop and integrate the non-tokenized reputation system, including mechanisms for peer validation and diverse contribution tracking. Explore lightweight Sybil resistance mechanisms (WoT, PoP-lite).
     
-*   Enhanced Synthesis & Visualization: Implement tools for knowledge graph visualization and exploration to aid discovery and synthesis.84 Develop more advanced search capabilities leveraging the structured data and links.
+[]   **Enhanced Synthesis & Visualization:** Implement tools for knowledge graph visualization and exploration to aid discovery and synthesis.84 Develop more advanced search capabilities leveraging the structured data and links.
     
-*   ASoS Implementation: Develop and test mechanisms for adaptive schema evolution (ASoS), allowing communities to propose and adopt changes to the knowledge structure based on consensus. Refine the governance process for updating the Autobase apply function.
+[]   **ASoS Implementation:** Develop and test mechanisms for adaptive schema evolution (ASoS), allowing communities to propose and adopt changes to the knowledge structure based on consensus. Refine the governance process for updating the Autobase apply function.
     
-*   Access Control: Implement a flexible, decentralized access control system (potentially drawing from UCAN or RBAC principles) integrated with the reputation system.
+[]   **Access Control:** Implement a flexible, decentralized access control system (potentially drawing from UCAN or RBAC principles) integrated with the reputation system.
     
-*   Broadened Use Case Pilots: Expand pilot projects into diverse domains identified (community organizing, education, etc.) to test and refine Naseej's general-purpose applicability.
+[]   **Broadened Use Case Pilots:** Expand pilot projects into diverse domains identified (community organizing, education, etc.) to test and refine Naseej's general-purpose applicability.
     
 
 ### Long-Term Vision:
     
 
-*   Global Commons Infrastructure: Establish Naseej as a robust, widely adopted, open-source infrastructure for diverse communities globally seeking resilient, inclusive, and action-oriented knowledge management.
+[]   **Global Commons Infrastructure:** Establish Naseej as a robust, widely adopted, open-source infrastructure for diverse communities globally seeking resilient, inclusive, and action-oriented knowledge management.
     
-*   Interoperability: Explore integrations with other decentralized tools, protocols (like DeSci platforms where appropriate), and data standards to foster a richer ecosystem.
+[]   **Interoperability:** Explore integrations with other decentralized tools, protocols (like DeSci platforms where appropriate), and data standards to foster a richer ecosystem.
     
-*   Community Governance: Develop mature decentralized governance mechanisms for the Naseej protocol and codebase itself, ensuring its long-term sustainability and alignment with community needs.
+[]   **Community Governance:** Develop mature decentralized governance mechanisms for the Naseej protocol and codebase itself, ensuring its long-term sustainability and alignment with community needs.
     
-*   Continued Philosophical Alignment: Ensure all future development remains deeply rooted in the core principles of Holistic Radical Inclusion, Breaking Silos, PAR, and Contextual Resilience.
+[]   **Continued Philosophical Alignment:** Ensure all future development remains deeply rooted in the core principles of Holistic Radical Inclusion, Breaking Silos, PAR, and Contextual Resilience.
     
 
 The roadmap reflects the ambition of Naseej to move beyond a niche tool towards a foundational layer for collaborative intelligence. It prioritizes building the core P2P infrastructure, integrating the philosophical commitments into the reputation and governance systems, and then expanding capabilities for synthesis and adaptation based on real-world usage and feedback.
