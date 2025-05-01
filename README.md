@@ -1,11 +1,11 @@
 # Naseej: Weaving a Radically Inclusive Knowledge Commons for Action
 
-```
+```mermaid
 ---
 config:
   flowchart:
     defaultRenderer: elk
-  layout: elk
+  layout: fixed
   theme: neo
 ---
 flowchart TD
@@ -112,7 +112,6 @@ flowchart TD
      Need3_1:::detail
      Need3_2:::detail
      Need3_3:::detail
-     Vision:::vision
      P1:::philosophy
      P1_1:::detail
      P1_2:::detail
@@ -125,7 +124,6 @@ flowchart TD
      P3_1:::detail
      P3_2:::detail
      P3_3:::detail
-     Arch:::solution
      DataLayer:::tech_cat
      HC:::tech_comp
      CS:::tech_comp
@@ -141,6 +139,7 @@ flowchart TD
      RepSys:::tech_comp
      SybilRes:::tech_comp
      AccessCtrl:::tech_comp
+     Arch:::solution
      ResilienceFeatures:::solution_sub
      RF1:::detail
      RF2:::detail
@@ -160,6 +159,7 @@ flowchart TD
      R2:::roadmap
      R3:::roadmap
      R4:::roadmap
+     Vision:::vision
     classDef need fill:#f9f,stroke:#333,stroke-width:2px
     classDef vision fill:#ccf,stroke:#333,stroke-width:2px,font-weight:bold
     classDef philosophy fill:#lightgrey,stroke:#333,stroke-width:2px
